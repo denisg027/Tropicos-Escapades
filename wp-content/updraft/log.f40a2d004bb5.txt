@@ -1,0 +1,1485 @@
+0000.001 (0) Opened log file at time: Mon, 04 Jul 2022 13:38:27 +0000 on http://evaluation-studi
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 55.4M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 264521 MB
+0000.010 (0) Deleting old temporary file: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip.list.tmp
+0000.012 (0) Deleting old temporary file: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.list.tmp
+0000.012 (0) Deleting old temporary file: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.list.tmp
+0000.013 (0) Deleting old temporary file: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip.list.tmp
+0000.014 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.016 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.032 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1656662736, seconds_ago=279171)
+0000.034 (0) Set semaphore last lock (fd) time to 2022-07-04 13:38:27
+0000.035 (0) Semaphore lock (fd) complete
+0000.038 (0) Backup run: resumption=0, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (0s ago), job type=backup
+0000.039 (0) Scheduling a resumption (1) after 300 seconds (1656942207) in case this run gets aborted
+0000.066 (0) Checking if we have a zip executable available
+0000.068 (0) Creation of backups of directories: beginning
+0000.072 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0011.343 (0) Total entities for the zip file: 3001 directories, 16372 files (0 skipped as non-modified), 176.9 MB
+0011.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0011.552 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 100 files added (on-disk size: 599.3 KB)
+0012.375 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 200 files added (on-disk size: 599.3 KB)
+0012.605 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 300 files added (on-disk size: 599.3 KB)
+0013.229 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 400 files added (on-disk size: 599.3 KB)
+0013.770 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 500 files added (on-disk size: 599.3 KB)
+0014.066 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 600 files added (on-disk size: 599.3 KB)
+0014.117 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 700 files added (on-disk size: 599.3 KB)
+0014.148 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 800 files added (on-disk size: 599.3 KB)
+0014.179 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 900 files added (on-disk size: 599.3 KB)
+0014.182 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 16372 files batched, 906 (907) added so far); re-opening (prior size: 599.3 KB)
+0015.481 (0) A useful amount of data was added after this amount of zip processing: 4.2 s (normalised: 4.2 s, rate: 6053.2 KB/s)
+0015.483 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.2344300746918, normalised_time=4.2291608858607, max_time=15.481364011765, data points known=1, old_max_bytes=26214400, new_max_bytes=57576622)
+0015.530 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1000 files added (on-disk size: 6715.5 KB)
+0015.562 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1100 files added (on-disk size: 6715.5 KB)
+0015.593 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1200 files added (on-disk size: 6715.5 KB)
+0015.624 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1300 files added (on-disk size: 6715.5 KB)
+0015.655 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1400 files added (on-disk size: 6715.5 KB)
+0015.844 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1500 files added (on-disk size: 6715.5 KB)
+0016.557 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1600 files added (on-disk size: 6715.5 KB)
+0017.788 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1700 files added (on-disk size: 6715.5 KB)
+0018.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (24.1 MB, 885 (1792) files added so far); re-opening (prior size: 6715.5 KB)
+0019.612 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1800 files added (on-disk size: 12495.6 KB)
+0020.446 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 1900 files added (on-disk size: 12495.6 KB)
+0021.189 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2000 files added (on-disk size: 12495.6 KB)
+0022.226 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2100 files added (on-disk size: 12495.6 KB)
+0022.250 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 316 (2108) files added so far); re-opening (prior size: 12495.6 KB)
+0023.290 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2200 files added (on-disk size: 13033.3 KB)
+0024.234 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2300 files added (on-disk size: 13033.3 KB)
+0024.844 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2400 files added (on-disk size: 13033.3 KB)
+0025.127 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2500 files added (on-disk size: 13033.3 KB)
+0025.182 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2600 files added (on-disk size: 13033.3 KB)
+0025.254 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 504 (2612) files added so far); re-opening (prior size: 13033.3 KB)
+0025.919 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2700 files added (on-disk size: 14251.9 KB)
+0026.481 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2800 files added (on-disk size: 14251.9 KB)
+0027.189 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 2900 files added (on-disk size: 14251.9 KB)
+0028.185 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3000 files added (on-disk size: 14251.9 KB)
+0028.254 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.6 MB, 394 (3006) files added so far); re-opening (prior size: 14251.9 KB)
+0029.512 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3100 files added (on-disk size: 14980.1 KB)
+0030.427 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3200 files added (on-disk size: 14980.1 KB)
+0031.093 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3300 files added (on-disk size: 14980.1 KB)
+0031.250 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 312 (3318) files added so far); re-opening (prior size: 14980.1 KB)
+0032.146 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3400 files added (on-disk size: 15335.3 KB)
+0032.971 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3500 files added (on-disk size: 15335.3 KB)
+0033.785 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3600 files added (on-disk size: 15335.3 KB)
+0034.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 337 (3655) files added so far); re-opening (prior size: 15335.3 KB)
+0034.824 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3700 files added (on-disk size: 15747.9 KB)
+0035.632 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3800 files added (on-disk size: 15747.9 KB)
+0036.512 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 3900 files added (on-disk size: 15747.9 KB)
+0037.247 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 323 (3978) files added so far); re-opening (prior size: 15747.9 KB)
+0037.711 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4000 files added (on-disk size: 16252.4 KB)
+0038.732 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4100 files added (on-disk size: 16252.4 KB)
+0039.767 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4200 files added (on-disk size: 16252.4 KB)
+0040.249 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 273 (4251) files added so far); re-opening (prior size: 16252.4 KB)
+0040.967 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4300 files added (on-disk size: 16780.5 KB)
+0041.975 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4400 files added (on-disk size: 16780.5 KB)
+0042.880 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4500 files added (on-disk size: 16780.5 KB)
+0043.250 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 301 (4552) files added so far); re-opening (prior size: 16780.5 KB)
+0043.845 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4600 files added (on-disk size: 17154.8 KB)
+0044.576 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4700 files added (on-disk size: 17154.8 KB)
+0045.279 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4800 files added (on-disk size: 17154.8 KB)
+0045.955 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 4900 files added (on-disk size: 17154.8 KB)
+0046.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 387 (4939) files added so far); re-opening (prior size: 17154.8 KB)
+0047.096 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5000 files added (on-disk size: 17576 KB)
+0047.934 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5100 files added (on-disk size: 17576 KB)
+0048.856 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5200 files added (on-disk size: 17576 KB)
+0049.257 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 301 (5240) files added so far); re-opening (prior size: 17576 KB)
+0050.184 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5300 files added (on-disk size: 18014 KB)
+0051.237 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5400 files added (on-disk size: 18014 KB)
+0052.069 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5500 files added (on-disk size: 18014 KB)
+0052.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 285 (5525) files added so far); re-opening (prior size: 18014 KB)
+0053.125 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5600 files added (on-disk size: 18514.5 KB)
+0053.622 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5700 files added (on-disk size: 18514.5 KB)
+0054.454 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5800 files added (on-disk size: 18514.5 KB)
+0055.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 362 (5887) files added so far); re-opening (prior size: 18514.5 KB)
+0055.720 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 5900 files added (on-disk size: 19103.9 KB)
+0056.610 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6000 files added (on-disk size: 19103.9 KB)
+0057.427 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6100 files added (on-disk size: 19103.9 KB)
+0058.237 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6200 files added (on-disk size: 19103.9 KB)
+0058.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 315 (6202) files added so far); re-opening (prior size: 19103.9 KB)
+0059.209 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6300 files added (on-disk size: 19566.7 KB)
+0060.090 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6400 files added (on-disk size: 19566.7 KB)
+0060.782 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6500 files added (on-disk size: 19566.7 KB)
+0061.098 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6600 files added (on-disk size: 19566.7 KB)
+0061.283 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 430 (6632) files added so far); re-opening (prior size: 19566.7 KB)
+0062.378 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6700 files added (on-disk size: 20625.2 KB)
+0063.735 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6800 files added (on-disk size: 20625.2 KB)
+0064.220 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 6900 files added (on-disk size: 20625.2 KB)
+0064.247 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 343 (6975) files added so far); re-opening (prior size: 20625.2 KB)
+0064.755 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7000 files added (on-disk size: 21992.8 KB)
+0064.799 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7100 files added (on-disk size: 21992.8 KB)
+0065.013 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7200 files added (on-disk size: 21992.8 KB)
+0065.647 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7300 files added (on-disk size: 21992.8 KB)
+0066.088 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7400 files added (on-disk size: 21992.8 KB)
+0067.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 MB, 515 (7490) files added so far); re-opening (prior size: 21992.8 KB)
+0067.741 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7500 files added (on-disk size: 23589.4 KB)
+0068.583 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7600 files added (on-disk size: 23589.4 KB)
+0069.067 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7700 files added (on-disk size: 23589.4 KB)
+0069.355 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7800 files added (on-disk size: 23589.4 KB)
+0070.276 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.1 MB, 402 (7892) files added so far); re-opening (prior size: 23589.4 KB)
+0070.950 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 7900 files added (on-disk size: 25660.1 KB)
+0071.704 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8000 files added (on-disk size: 25660.1 KB)
+0073.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.7 MB, 201 (8093) files added so far); re-opening (prior size: 25660.1 KB)
+0076.340 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8100 files added (on-disk size: 29213.6 KB)
+0077.270 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8200 files added (on-disk size: 29213.6 KB)
+0078.237 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8300 files added (on-disk size: 29213.6 KB)
+0078.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 209 (8302) files added so far); re-opening (prior size: 29213.6 KB)
+0079.520 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8400 files added (on-disk size: 29504.3 KB)
+0080.393 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8500 files added (on-disk size: 29504.3 KB)
+0081.220 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8600 files added (on-disk size: 29504.3 KB)
+0081.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 301 (8603) files added so far); re-opening (prior size: 29504.3 KB)
+0082.643 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8700 files added (on-disk size: 30325.2 KB)
+0083.467 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8800 files added (on-disk size: 30325.2 KB)
+0084.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 285 (8888) files added so far); re-opening (prior size: 30325.2 KB)
+0084.773 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 8900 files added (on-disk size: 30729.9 KB)
+0085.787 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9000 files added (on-disk size: 30729.9 KB)
+0086.475 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9100 files added (on-disk size: 30729.9 KB)
+0087.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 295 (9183) files added so far); re-opening (prior size: 30729.9 KB)
+0087.816 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9200 files added (on-disk size: 31296.6 KB)
+0088.644 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9300 files added (on-disk size: 31296.6 KB)
+0089.553 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9400 files added (on-disk size: 31296.6 KB)
+0090.061 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9500 files added (on-disk size: 31296.6 KB)
+0090.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6 MB, 372 (9555) files added so far); re-opening (prior size: 31296.6 KB)
+0091.004 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9600 files added (on-disk size: 33031 KB)
+0091.772 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9700 files added (on-disk size: 33031 KB)
+0092.962 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9800 files added (on-disk size: 33031 KB)
+0093.620 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.1 MB, 253 (9808) files added so far); re-opening (prior size: 33031 KB)
+0096.272 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 85 (9893) files added so far); re-opening (prior size: 34764.1 KB)
+0096.873 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 9900 files added (on-disk size: 34942.2 KB)
+0098.756 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10000 files added (on-disk size: 34942.2 KB)
+0099.261 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 191 (10084) files added so far); re-opening (prior size: 34942.2 KB)
+0099.889 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10100 files added (on-disk size: 35508.7 KB)
+0100.712 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10200 files added (on-disk size: 35508.7 KB)
+0101.857 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10300 files added (on-disk size: 35508.7 KB)
+0102.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 248 (10332) files added so far); re-opening (prior size: 35508.7 KB)
+0103.034 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10400 files added (on-disk size: 36129.7 KB)
+0103.789 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10500 files added (on-disk size: 36129.7 KB)
+0104.375 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10600 files added (on-disk size: 36129.7 KB)
+0104.996 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10700 files added (on-disk size: 36129.7 KB)
+0105.249 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 412 (10744) files added so far); re-opening (prior size: 36129.7 KB)
+0106.248 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10800 files added (on-disk size: 37097.5 KB)
+0106.871 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 10900 files added (on-disk size: 37097.5 KB)
+0107.464 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11000 files added (on-disk size: 37097.5 KB)
+0108.044 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11100 files added (on-disk size: 37097.5 KB)
+0108.250 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 403 (11147) files added so far); re-opening (prior size: 37097.5 KB)
+0109.047 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11200 files added (on-disk size: 37464.6 KB)
+0109.557 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11300 files added (on-disk size: 37464.6 KB)
+0110.123 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11400 files added (on-disk size: 37464.6 KB)
+0110.776 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11500 files added (on-disk size: 37464.6 KB)
+0111.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 428 (11575) files added so far); re-opening (prior size: 37464.6 KB)
+0111.906 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11600 files added (on-disk size: 38015.6 KB)
+0112.590 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11700 files added (on-disk size: 38015.6 KB)
+0113.337 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11800 files added (on-disk size: 38015.6 KB)
+0114.148 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 11900 files added (on-disk size: 38015.6 KB)
+0114.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 333 (11908) files added so far); re-opening (prior size: 38015.6 KB)
+0115.337 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12000 files added (on-disk size: 38907 KB)
+0115.707 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12100 files added (on-disk size: 38907 KB)
+0116.096 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12200 files added (on-disk size: 38907 KB)
+0117.005 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12300 files added (on-disk size: 38907 KB)
+0117.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 420 (12328) files added so far); re-opening (prior size: 38907 KB)
+0118.539 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12400 files added (on-disk size: 39895.3 KB)
+0119.276 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12500 files added (on-disk size: 39895.3 KB)
+0119.854 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12600 files added (on-disk size: 39895.3 KB)
+0120.162 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12700 files added (on-disk size: 39895.3 KB)
+0120.259 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 384 (12712) files added so far); re-opening (prior size: 39895.3 KB)
+0122.316 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12800 files added (on-disk size: 40566.8 KB)
+0123.262 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 173 (12885) files added so far); re-opening (prior size: 40566.8 KB)
+0123.747 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 12900 files added (on-disk size: 40769.7 KB)
+0124.215 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13000 files added (on-disk size: 40769.7 KB)
+0125.012 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13100 files added (on-disk size: 40769.7 KB)
+0125.835 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13200 files added (on-disk size: 40769.7 KB)
+0126.282 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.8 MB, 356 (13241) files added so far); re-opening (prior size: 40769.7 KB)
+0127.304 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13300 files added (on-disk size: 42798.2 KB)
+0127.836 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13400 files added (on-disk size: 42798.2 KB)
+0128.457 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13500 files added (on-disk size: 42798.2 KB)
+0129.039 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13600 files added (on-disk size: 42798.2 KB)
+0129.249 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 379 (13620) files added so far); re-opening (prior size: 42798.2 KB)
+0130.380 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13700 files added (on-disk size: 43733.7 KB)
+0130.816 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13800 files added (on-disk size: 43733.7 KB)
+0132.232 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 13900 files added (on-disk size: 43733.7 KB)
+0132.252 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 282 (13902) files added so far); re-opening (prior size: 43733.7 KB)
+0134.725 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14000 files added (on-disk size: 45558.2 KB)
+0135.261 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 125 (14027) files added so far); re-opening (prior size: 45558.2 KB)
+0136.708 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14100 files added (on-disk size: 46044 KB)
+0136.741 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14200 files added (on-disk size: 46044 KB)
+0136.773 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14300 files added (on-disk size: 46044 KB)
+0136.952 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14400 files added (on-disk size: 46044 KB)
+0137.485 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14500 files added (on-disk size: 46044 KB)
+0138.252 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.5 MB, 544 (14571) files added so far); re-opening (prior size: 46044 KB)
+0139.311 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14600 files added (on-disk size: 47892.2 KB)
+0139.827 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14700 files added (on-disk size: 47892.2 KB)
+0140.770 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14800 files added (on-disk size: 47892.2 KB)
+0141.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.8 MB, 303 (14874) files added so far); re-opening (prior size: 47892.2 KB)
+0142.479 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 14900 files added (on-disk size: 50107.9 KB)
+0142.754 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15000 files added (on-disk size: 50107.9 KB)
+0143.536 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15100 files added (on-disk size: 50107.9 KB)
+0143.676 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15200 files added (on-disk size: 50107.9 KB)
+0143.716 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15300 files added (on-disk size: 50107.9 KB)
+0144.057 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15400 files added (on-disk size: 50107.9 KB)
+0144.486 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15500 files added (on-disk size: 50107.9 KB)
+0145.247 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 719 (15593) files added so far); re-opening (prior size: 50107.9 KB)
+0145.897 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15600 files added (on-disk size: 50973.5 KB)
+0146.683 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15700 files added (on-disk size: 50973.5 KB)
+0147.035 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15800 files added (on-disk size: 50973.5 KB)
+0148.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 284 (15877) files added so far); re-opening (prior size: 50973.5 KB)
+0149.868 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 15900 files added (on-disk size: 52022.7 KB)
+0150.713 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 16000 files added (on-disk size: 52022.7 KB)
+0151.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 178 (16055) files added so far); re-opening (prior size: 52022.7 KB)
+0152.220 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 16100 files added (on-disk size: 52300.8 KB)
+0152.983 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 16200 files added (on-disk size: 52300.8 KB)
+0153.742 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.tmp: 16300 files added (on-disk size: 52300.8 KB)
+0154.247 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 312 (16367) files added so far); re-opening (prior size: 52300.8 KB)
+0155.325 (0) Creating zip file manifest (backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip.list-temp.tmp)
+0155.396 (0) Successfully created zip file manifest (size: 1609921)
+0155.888 (0) Created plugins zip (0) - 52837 KB in 155.8 s (339.1 KB/s) (sha1: af3940ee99b6bcb0822e0cc3fb7c736d8b1b2b7b, sha256: d440ea792ce563eda8edb120ae8f8b47823b768731c472cc6211031b73795b42)
+0155.892 (0) Beginning creation of dump of themes (split every: 400 MB)
+0156.161 (0) Total entities for the zip file: 291 directories, 669 files (0 skipped as non-modified), 23.1 MB
+0156.521 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0156.886 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0157.077 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0157.339 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0157.961 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0158.285 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (19.7 MB, 559 (559) files added so far); re-opening (prior size: 0 KB)
+0159.698 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip.tmp: 600 files added (on-disk size: 5431.6 KB)
+0160.339 (0) Creating zip file manifest (backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip.list-temp.tmp)
+0160.343 (0) Successfully created zip file manifest (size: 57959)
+0160.400 (0) Created themes zip (0) - 6541.4 KB in 4.5 s (1452.3 KB/s) (sha1: dbc6ea2dbda679645cff63d28ec4c5e23008a9ff, sha256: 60bab625490b770c1d5b1cc5372bcaf903e931ebbd69d9efe5666e856af5a6d8)
+0160.404 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0160.405 (0) Looking for candidates to backup in: C:\wamp64\www\Evaluation-Studi/wp-content/uploads
+0160.406 (0) finding files: 2020: adding to list (1)
+0160.407 (0) finding files: 2022: adding to list (2)
+0160.408 (0) finding files: astra-sites: adding to list (3)
+0160.409 (0) finding files: elementor: adding to list (4)
+0160.409 (0) finding files: mailpoet: adding to list (5)
+0160.411 (0) finding files: smush-1b862831fafac5088db7.log: adding to list (6)
+0160.412 (0) finding files: wc-logs: adding to list (7)
+0160.412 (0) finding files: woocommerce_uploads: adding to list (8)
+0160.413 (0) finding files: wpcf7_uploads: adding to list (9)
+0160.414 (0) finding files: wpforms: adding to list (10)
+0160.415 (0) finding files: wpo: adding to list (11)
+0160.416 (0) finding files: wpo-plugins-tables-list.json: adding to list (12)
+0160.416 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0160.542 (0) Total entities for the zip file: 31 directories, 493 files (0 skipped as non-modified), 33 MB
+0160.582 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0160.620 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0160.658 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0160.695 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0161.391 (0) Creating zip file manifest (backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip.list-temp.tmp)
+0161.395 (0) Successfully created zip file manifest (size: 32986)
+0161.641 (0) Created uploads zip (0) - 31557.1 KB in 1.2 s (25854 KB/s) (sha1: f1dc981199250db38923557669d24a95b24cf74b, sha256: 9cb7c41140c56ef15e827dfd1b2c21fe2a2a43f57a75da7bccb7048bf45b8533)
+0161.645 (0) Beginning backup of other directories found in the content directory (index: 0)
+0161.646 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0161.647 (0) Looking for candidates to backup in: C:\wamp64\www\Evaluation-Studi/wp-content
+0161.647 (0) finding files: advanced-cache.php: adding to list (1)
+0161.648 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0161.649 (0) finding files: cache: skipping: excluded by options
+0161.650 (0) finding files: index.php: adding to list (2)
+0161.651 (0) finding files: languages: adding to list (3)
+0161.652 (0) finding files: plugins: skipping: this is the plugins directory
+0161.652 (0) finding files: themes: skipping: this is the themes directory
+0161.653 (0) finding files: updraft: skipping: this is the updraft directory
+0161.654 (0) finding files: upgrade: skipping: excluded by options
+0161.655 (0) finding files: uploads: skipping: this is the uploads directory
+0161.655 (0) finding files: wpo-cache: adding to list (4)
+0161.797 (0) Total entities for the zip file: 5 directories, 582 files (0 skipped as non-modified), 9 MB
+0162.001 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0162.350 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0162.742 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0163.091 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0163.443 (0) Zip: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0164.390 (0) Creating zip file manifest (backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip.list-temp.tmp)
+0164.394 (0) Successfully created zip file manifest (size: 47898)
+0164.420 (0) Created others zip (0) - 2649.6 KB in 2.8 s (959.7 KB/s) (sha1: 2df54faed19b545fc76a326663728bd35e132ba8, sha256: 7332ed14d4ff6903a92ebd35de4b76bcb91d62048384dda97f66befd9a158d7f)
+0164.426 (0) Saving backup status to database (elements: 8)
+0164.429 (0) Beginning creation of database dump (WordPress DB)
+0164.430 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0164.468 (0) Table es_options: Total expected rows (via COUNT): 770
+0164.604 (0) Table es_options: Rows added in this batch (next record: 9893): 766 (uncompressed bytes in this segment=6328159) in 0.15 seconds
+0164.611 (0) Table es_options: finishing file(s) (2, 553.2 KB)
+0164.619 (0) Table es_users: Total expected rows (via COUNT): 2
+0164.620 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0164.622 (0) Table es_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1650) in 0.01 seconds
+0164.628 (0) Table es_users: finishing file(s) (2, 0.7 KB)
+0164.637 (0) Table es_usermeta: Total expected rows (via COUNT): 51
+0164.638 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0164.642 (0) Table es_usermeta: Rows added in this batch (next record: 73): 51 (uncompressed bytes in this segment=3987) in 0.01 seconds
+0164.649 (0) Table es_usermeta: finishing file(s) (2, 1.9 KB)
+0164.658 (0) Table es_actionscheduler_actions: Total expected rows (via COUNT): 58
+0164.659 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0164.667 (0) Table es_actionscheduler_actions: Rows added in this batch (next record: 96): 58 (uncompressed bytes in this segment=24885) in 0.01 seconds
+0164.674 (0) Table es_actionscheduler_actions: finishing file(s) (2, 2.8 KB)
+0164.682 (0) Table es_actionscheduler_claims: Total expected rows (via COUNT): 0
+0164.684 (0) Table es_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=622) in 0.00 seconds
+0164.690 (0) Table es_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0164.696 (0) Table es_actionscheduler_groups: Total expected rows (via COUNT): 6
+0164.697 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0164.699 (0) Table es_actionscheduler_groups: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=820) in 0.00 seconds
+0164.705 (0) Table es_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0164.712 (0) Table es_actionscheduler_logs: Total expected rows (via COUNT): 170
+0164.713 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0164.721 (0) Table es_actionscheduler_logs: Rows added in this batch (next record: 260): 170 (uncompressed bytes in this segment=15430) in 0.01 seconds
+0164.727 (0) Table es_actionscheduler_logs: finishing file(s) (2, 2.3 KB)
+0164.736 (0) Table es_commentmeta: Total expected rows (via COUNT): 0
+0164.738 (0) Table es_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.01 seconds
+0164.744 (0) Table es_commentmeta: finishing file(s) (2, 0.4 KB)
+0164.753 (0) Table es_comments: Total expected rows (via COUNT): 1
+0164.755 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0164.758 (0) Table es_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2273) in 0.01 seconds
+0164.765 (0) Table es_comments: finishing file(s) (2, 0.8 KB)
+0164.774 (0) Table es_e_notes: Total expected rows (via COUNT): 0
+0164.776 (0) Table es_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2049) in 0.01 seconds
+0164.782 (0) Table es_e_notes: finishing file(s) (2, 0.8 KB)
+0164.790 (0) Table es_e_notes_users_relations: Total expected rows (via COUNT): 0
+0164.792 (0) Table es_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=871) in 0.00 seconds
+0164.798 (0) Table es_e_notes_users_relations: finishing file(s) (2, 0.4 KB)
+0164.806 (0) Table es_links: Total expected rows (via COUNT): 0
+0164.807 (0) Table es_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.00 seconds
+0164.813 (0) Table es_links: finishing file(s) (2, 0.5 KB)
+0164.908 (0) Table es_postmeta: Total expected rows (approximate): 9026
+0165.545 (0) Table es_postmeta: Rows added in this batch (next record: 11851): 9026 (uncompressed bytes in this segment=27625718) in 0.72 seconds
+0165.552 (0) Table es_postmeta: finishing file(s) (2, 1732.1 KB)
+0165.570 (0) Table es_posts: Total expected rows (approximate): 1190
+0165.815 (0) Table es_posts: Rows added in this batch (next record: 1684): 1190 (uncompressed bytes in this segment=7630489) in 0.26 seconds
+0165.822 (0) Table es_posts: finishing file(s) (2, 220.2 KB)
+0165.830 (0) Table es_term_relationships: Total expected rows (approximate): 110
+0165.834 (0) Table es_term_relationships: Rows added in this batch (next record: 100000): 110 (uncompressed bytes in this segment=2312) in 0.01 seconds
+0165.839 (0) Table es_term_relationships: finishing file(s) (2, 0.7 KB)
+0165.847 (0) Table es_term_taxonomy: Total expected rows (via COUNT): 34
+0165.848 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0165.852 (0) Table es_term_taxonomy: Rows added in this batch (next record: 39): 34 (uncompressed bytes in this segment=2565) in 0.01 seconds
+0165.859 (0) Table es_term_taxonomy: finishing file(s) (2, 0.9 KB)
+0165.867 (0) Table es_termmeta: Total expected rows (via COUNT): 5
+0165.867 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0165.870 (0) Table es_termmeta: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=924) in 0.01 seconds
+0165.878 (0) Table es_termmeta: finishing file(s) (2, 0.5 KB)
+0165.884 (0) Table es_terms: Total expected rows (via COUNT): 34
+0165.885 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0165.888 (0) Table es_terms: Rows added in this batch (next record: 39): 34 (uncompressed bytes in this segment=2053) in 0.01 seconds
+0165.895 (0) Table es_terms: finishing file(s) (2, 0.8 KB)
+0165.902 (0) Table es_wc_category_lookup: Total expected rows (approximate): 1
+0165.905 (0) Table es_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=581) in 0.00 seconds
+0165.910 (0) Table es_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0165.918 (0) Table es_wc_product_meta_lookup: Total expected rows (via COUNT): 0
+0165.919 (0) Table es_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1349) in 0.00 seconds
+0165.925 (0) Table es_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0165.932 (0) Table es_wc_reserved_stock: Total expected rows (approximate): 0
+0165.933 (0) Table es_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 0.00 seconds
+0165.939 (0) Table es_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0165.946 (0) Table es_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0165.947 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0165.950 (0) Table es_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=808) in 0.01 seconds
+0165.955 (0) Table es_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0165.963 (0) Table es_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0165.966 (0) Table es_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=763) in 0.01 seconds
+0165.972 (0) Table es_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0165.980 (0) Table es_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0165.981 (0) Table es_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.00 seconds
+0165.988 (0) Table es_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0165.995 (0) Table es_e_events: Total expected rows (via COUNT): 0
+0165.997 (0) Table es_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.00 seconds
+0166.002 (0) Table es_e_events: finishing file(s) (2, 0.3 KB)
+0166.010 (0) Table es_e_submissions: Total expected rows (via COUNT): 0
+0166.012 (0) Table es_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2254) in 0.00 seconds
+0166.018 (0) Table es_e_submissions: finishing file(s) (2, 0.7 KB)
+0166.025 (0) Table es_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0166.026 (0) Table es_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1243) in 0.00 seconds
+0166.032 (0) Table es_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0166.040 (0) Table es_e_submissions_values: Total expected rows (via COUNT): 0
+0166.041 (0) Table es_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.00 seconds
+0166.048 (0) Table es_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0166.055 (0) Table es_gla_budget_recommendations: Total expected rows (approximate): 4230
+0166.225 (0) Table es_gla_budget_recommendations: Rows added in this batch (next record: 4230): 4230 (uncompressed bytes in this segment=131445) in 0.17 seconds
+0166.231 (0) Table es_gla_budget_recommendations: finishing file(s) (2, 33 KB)
+0166.255 (0) Table es_gla_merchant_issues: Total expected rows (via COUNT): 0
+0166.256 (0) Table es_gla_merchant_issues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1161) in 0.00 seconds
+0166.262 (0) Table es_gla_merchant_issues: finishing file(s) (2, 0.4 KB)
+0166.269 (0) Table es_gla_shipping_rates: Total expected rows (via COUNT): 0
+0166.270 (0) Table es_gla_shipping_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=836) in 0.00 seconds
+0166.276 (0) Table es_gla_shipping_rates: finishing file(s) (2, 0.4 KB)
+0166.282 (0) Table es_gla_shipping_times: Total expected rows (via COUNT): 0
+0166.284 (0) Table es_gla_shipping_times: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=580) in 0.00 seconds
+0166.289 (0) Table es_gla_shipping_times: finishing file(s) (2, 0.3 KB)
+0166.297 (0) Table es_mailpoet_custom_fields: Total expected rows (via COUNT): 0
+0166.298 (0) Table es_mailpoet_custom_fields: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=827) in 0.00 seconds
+0166.304 (0) Table es_mailpoet_custom_fields: finishing file(s) (2, 0.4 KB)
+0166.311 (0) Table es_mailpoet_dynamic_segment_filters: Total expected rows (via COUNT): 0
+0166.312 (0) Table es_mailpoet_dynamic_segment_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=914) in 0.00 seconds
+0166.318 (0) Table es_mailpoet_dynamic_segment_filters: finishing file(s) (2, 0.4 KB)
+0166.326 (0) Table es_mailpoet_feature_flags: Total expected rows (via COUNT): 0
+0166.327 (0) Table es_mailpoet_feature_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=740) in 0.00 seconds
+0166.333 (0) Table es_mailpoet_feature_flags: finishing file(s) (2, 0.4 KB)
+0166.341 (0) Table es_mailpoet_forms: Total expected rows (via COUNT): 0
+0166.343 (0) Table es_mailpoet_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=908) in 0.00 seconds
+0166.349 (0) Table es_mailpoet_forms: finishing file(s) (2, 0.4 KB)
+0166.357 (0) Table es_mailpoet_log: Total expected rows (via COUNT): 0
+0166.358 (0) Table es_mailpoet_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=627) in 0.00 seconds
+0166.366 (0) Table es_mailpoet_log: finishing file(s) (2, 0.4 KB)
+0166.398 (0) Table es_mailpoet_mapping_to_external_entities: Total expected rows (approximate): 0
+0166.400 (0) Table es_mailpoet_mapping_to_external_entities: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=753) in 0.00 seconds
+0166.405 (0) Table es_mailpoet_mapping_to_external_entities: finishing file(s) (2, 0.4 KB)
+0166.412 (0) Table es_mailpoet_newsletter_links: Total expected rows (via COUNT): 0
+0166.413 (0) Table es_mailpoet_newsletter_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=930) in 0.00 seconds
+0166.419 (0) Table es_mailpoet_newsletter_links: finishing file(s) (2, 0.4 KB)
+0166.427 (0) Table es_mailpoet_newsletter_option: Total expected rows (via COUNT): 0
+0166.429 (0) Table es_mailpoet_newsletter_option: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=853) in 0.00 seconds
+0166.435 (0) Table es_mailpoet_newsletter_option: finishing file(s) (2, 0.4 KB)
+0166.443 (0) Table es_mailpoet_newsletter_option_fields: Total expected rows (via COUNT): 22
+0166.444 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.447 (0) Table es_mailpoet_newsletter_option_fields: Rows added in this batch (next record: 22): 22 (uncompressed bytes in this segment=2386) in 0.01 seconds
+0166.453 (0) Table es_mailpoet_newsletter_option_fields: finishing file(s) (2, 0.7 KB)
+0166.460 (0) Table es_mailpoet_newsletter_posts: Total expected rows (via COUNT): 0
+0166.462 (0) Table es_mailpoet_newsletter_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=747) in 0.00 seconds
+0166.468 (0) Table es_mailpoet_newsletter_posts: finishing file(s) (2, 0.4 KB)
+0166.475 (0) Table es_mailpoet_newsletter_segment: Total expected rows (via COUNT): 0
+0166.477 (0) Table es_mailpoet_newsletter_segment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=787) in 0.00 seconds
+0166.482 (0) Table es_mailpoet_newsletter_segment: finishing file(s) (2, 0.4 KB)
+0166.492 (0) Table es_mailpoet_newsletter_templates: Total expected rows (via COUNT): 78
+0166.493 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.517 (0) Table es_mailpoet_newsletter_templates: Rows added in this batch (next record: 78): 78 (uncompressed bytes in this segment=1126601) in 0.03 seconds
+0166.523 (0) Table es_mailpoet_newsletter_templates: finishing file(s) (2, 68.8 KB)
+0166.533 (0) Table es_mailpoet_newsletters: Total expected rows (via COUNT): 0
+0166.535 (0) Table es_mailpoet_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1746) in 0.01 seconds
+0166.541 (0) Table es_mailpoet_newsletters: finishing file(s) (2, 0.6 KB)
+0166.548 (0) Table es_mailpoet_scheduled_task_subscribers: Total expected rows (approximate): 0
+0166.550 (0) Table es_mailpoet_scheduled_task_subscribers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=900) in 0.00 seconds
+0166.556 (0) Table es_mailpoet_scheduled_task_subscribers: finishing file(s) (2, 0.4 KB)
+0166.566 (0) Table es_mailpoet_scheduled_tasks: Total expected rows (via COUNT): 75
+0166.566 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.574 (0) Table es_mailpoet_scheduled_tasks: Rows added in this batch (next record: 75): 75 (uncompressed bytes in this segment=13864) in 0.01 seconds
+0166.582 (0) Table es_mailpoet_scheduled_tasks: finishing file(s) (2, 1.9 KB)
+0166.590 (0) Table es_mailpoet_segments: Total expected rows (via COUNT): 3
+0166.592 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.595 (0) Table es_mailpoet_segments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1736) in 0.01 seconds
+0166.601 (0) Table es_mailpoet_segments: finishing file(s) (2, 0.7 KB)
+0166.611 (0) Table es_mailpoet_sending_queues: Total expected rows (via COUNT): 0
+0166.613 (0) Table es_mailpoet_sending_queues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1237) in 0.01 seconds
+0166.619 (0) Table es_mailpoet_sending_queues: finishing file(s) (2, 0.5 KB)
+0166.628 (0) Table es_mailpoet_settings: Total expected rows (via COUNT): 16
+0166.629 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.632 (0) Table es_mailpoet_settings: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=3912) in 0.01 seconds
+0166.638 (0) Table es_mailpoet_settings: finishing file(s) (2, 1.3 KB)
+0166.645 (0) Table es_mailpoet_statistics_bounces: Total expected rows (via COUNT): 0
+0166.647 (0) Table es_mailpoet_statistics_bounces: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.00 seconds
+0166.652 (0) Table es_mailpoet_statistics_bounces: finishing file(s) (2, 0.4 KB)
+0166.659 (0) Table es_mailpoet_statistics_clicks: Total expected rows (via COUNT): 0
+0166.660 (0) Table es_mailpoet_statistics_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1097) in 0.00 seconds
+0166.666 (0) Table es_mailpoet_statistics_clicks: finishing file(s) (2, 0.5 KB)
+0166.673 (0) Table es_mailpoet_statistics_forms: Total expected rows (via COUNT): 0
+0166.674 (0) Table es_mailpoet_statistics_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.00 seconds
+0166.680 (0) Table es_mailpoet_statistics_forms: finishing file(s) (2, 0.4 KB)
+0166.687 (0) Table es_mailpoet_statistics_newsletters: Total expected rows (via COUNT): 0
+0166.689 (0) Table es_mailpoet_statistics_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=815) in 0.00 seconds
+0166.694 (0) Table es_mailpoet_statistics_newsletters: finishing file(s) (2, 0.4 KB)
+0166.701 (0) Table es_mailpoet_statistics_opens: Total expected rows (via COUNT): 0
+0166.703 (0) Table es_mailpoet_statistics_opens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1051) in 0.00 seconds
+0166.708 (0) Table es_mailpoet_statistics_opens: finishing file(s) (2, 0.5 KB)
+0166.716 (0) Table es_mailpoet_statistics_unsubscribes: Total expected rows (via COUNT): 0
+0166.717 (0) Table es_mailpoet_statistics_unsubscribes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1010) in 0.00 seconds
+0166.722 (0) Table es_mailpoet_statistics_unsubscribes: finishing file(s) (2, 0.5 KB)
+0166.729 (0) Table es_mailpoet_statistics_woocommerce_purchases: Total expected rows (via COUNT): 0
+0166.731 (0) Table es_mailpoet_statistics_woocommerce_purchases: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1248) in 0.00 seconds
+0166.736 (0) Table es_mailpoet_statistics_woocommerce_purchases: finishing file(s) (2, 0.5 KB)
+0166.744 (0) Table es_mailpoet_stats_notifications: Total expected rows (via COUNT): 0
+0166.745 (0) Table es_mailpoet_stats_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=819) in 0.00 seconds
+0166.751 (0) Table es_mailpoet_stats_notifications: finishing file(s) (2, 0.4 KB)
+0166.758 (0) Table es_mailpoet_subscriber_custom_field: Total expected rows (via COUNT): 0
+0166.759 (0) Table es_mailpoet_subscriber_custom_field: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=894) in 0.00 seconds
+0166.767 (0) Table es_mailpoet_subscriber_custom_field: finishing file(s) (2, 0.4 KB)
+0166.774 (0) Table es_mailpoet_subscriber_ips: Total expected rows (approximate): 0
+0166.775 (0) Table es_mailpoet_subscriber_ips: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=593) in 0.00 seconds
+0166.781 (0) Table es_mailpoet_subscriber_ips: finishing file(s) (2, 0.4 KB)
+0166.789 (0) Table es_mailpoet_subscriber_segment: Total expected rows (via COUNT): 2
+0166.790 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.793 (0) Table es_mailpoet_subscriber_segment: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1120) in 0.01 seconds
+0166.798 (0) Table es_mailpoet_subscriber_segment: finishing file(s) (2, 0.5 KB)
+0166.808 (0) Table es_mailpoet_subscribers: Total expected rows (via COUNT): 2
+0166.809 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.811 (0) Table es_mailpoet_subscribers: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2998) in 0.01 seconds
+0166.817 (0) Table es_mailpoet_subscribers: finishing file(s) (2, 1 KB)
+0166.824 (0) Table es_mailpoet_user_agents: Total expected rows (via COUNT): 0
+0166.826 (0) Table es_mailpoet_user_agents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=753) in 0.00 seconds
+0166.832 (0) Table es_mailpoet_user_agents: finishing file(s) (2, 0.4 KB)
+0166.841 (0) Table es_mailpoet_user_flags: Total expected rows (via COUNT): 0
+0166.843 (0) Table es_mailpoet_user_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=801) in 0.01 seconds
+0166.848 (0) Table es_mailpoet_user_flags: finishing file(s) (2, 0.4 KB)
+0166.857 (0) Table es_tm_taskmeta: Total expected rows (via COUNT): 0
+0166.859 (0) Table es_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.01 seconds
+0166.866 (0) Table es_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0166.873 (0) Table es_tm_tasks: Total expected rows (via COUNT): 0
+0166.875 (0) Table es_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.00 seconds
+0166.881 (0) Table es_tm_tasks: finishing file(s) (2, 0.4 KB)
+0166.890 (0) Table es_wc_admin_note_actions: Total expected rows (via COUNT): 55
+0166.890 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.896 (0) Table es_wc_admin_note_actions: Rows added in this batch (next record: 1373): 55 (uncompressed bytes in this segment=10145) in 0.01 seconds
+0166.903 (0) Table es_wc_admin_note_actions: finishing file(s) (2, 2.5 KB)
+0166.913 (0) Table es_wc_admin_notes: Total expected rows (via COUNT): 49
+0166.914 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.922 (0) Table es_wc_admin_notes: Rows added in this batch (next record: 51): 49 (uncompressed bytes in this segment=24634) in 0.01 seconds
+0166.929 (0) Table es_wc_admin_notes: finishing file(s) (2, 6.8 KB)
+0166.936 (0) Table es_wc_customer_lookup: Total expected rows (via COUNT): 0
+0166.939 (0) Table es_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1258) in 0.00 seconds
+0166.944 (0) Table es_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0166.952 (0) Table es_wc_download_log: Total expected rows (via COUNT): 0
+0166.953 (0) Table es_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.00 seconds
+0166.959 (0) Table es_wc_download_log: finishing file(s) (2, 0.4 KB)
+0166.966 (0) Table es_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0166.967 (0) Table es_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=709) in 0.00 seconds
+0166.973 (0) Table es_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0166.980 (0) Table es_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0166.981 (0) Table es_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1203) in 0.00 seconds
+0166.987 (0) Table es_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0166.994 (0) Table es_wc_order_stats: Total expected rows (via COUNT): 0
+0166.995 (0) Table es_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1106) in 0.00 seconds
+0167.001 (0) Table es_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0167.008 (0) Table es_wc_order_tax_lookup: Total expected rows (approximate): 0
+0167.010 (0) Table es_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=791) in 0.00 seconds
+0167.016 (0) Table es_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0167.022 (0) Table es_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0167.024 (0) Table es_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=850) in 0.00 seconds
+0167.030 (0) Table es_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0167.037 (0) Table es_wc_product_download_directories: Total expected rows (via COUNT): 2
+0167.038 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.040 (0) Table es_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=916) in 0.01 seconds
+0167.047 (0) Table es_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0167.055 (0) Table es_wc_rate_limits: Total expected rows (via COUNT): 0
+0167.057 (0) Table es_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.00 seconds
+0167.063 (0) Table es_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0167.070 (0) Table es_wc_webhooks: Total expected rows (via COUNT): 0
+0167.072 (0) Table es_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.00 seconds
+0167.077 (0) Table es_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0167.086 (0) Table es_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0167.087 (0) Table es_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1038) in 0.00 seconds
+0167.093 (0) Table es_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0167.101 (0) Table es_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0167.103 (0) Table es_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=954) in 0.00 seconds
+0167.108 (0) Table es_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0167.115 (0) Table es_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0167.117 (0) Table es_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1518) in 0.00 seconds
+0167.122 (0) Table es_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0167.130 (0) Table es_woocommerce_log: Total expected rows (via COUNT): 0
+0167.132 (0) Table es_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=715) in 0.00 seconds
+0167.138 (0) Table es_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0167.144 (0) Table es_woocommerce_order_items: Total expected rows (via COUNT): 0
+0167.146 (0) Table es_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.00 seconds
+0167.151 (0) Table es_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0167.158 (0) Table es_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0167.160 (0) Table es_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=833) in 0.00 seconds
+0167.167 (0) Table es_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0167.175 (0) Table es_woocommerce_sessions: Total expected rows (via COUNT): 1
+0167.176 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.179 (0) Table es_woocommerce_sessions: Rows added in this batch (next record: 8): 1 (uncompressed bytes in this segment=2176) in 0.01 seconds
+0167.186 (0) Table es_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0167.193 (0) Table es_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0167.196 (0) Table es_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.00 seconds
+0167.202 (0) Table es_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0167.210 (0) Table es_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0167.211 (0) Table es_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=763) in 0.00 seconds
+0167.217 (0) Table es_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0167.223 (0) Table es_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0167.225 (0) Table es_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0167.231 (0) Table es_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0167.238 (0) Table es_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0167.240 (0) Table es_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=840) in 0.00 seconds
+0167.245 (0) Table es_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0167.252 (0) Table es_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0167.254 (0) Table es_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1283) in 0.00 seconds
+0167.260 (0) Table es_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0167.268 (0) Table es_wpforms_tasks_meta: Total expected rows (via COUNT): 16
+0167.270 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.273 (0) Table es_wpforms_tasks_meta: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=1878) in 0.01 seconds
+0167.280 (0) Table es_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0167.290 (0) Table es_yoast_indexable: Total expected rows (via COUNT): 86
+0167.291 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.318 (0) Table es_yoast_indexable: Rows added in this batch (next record: 86): 86 (uncompressed bytes in this segment=77071) in 0.03 seconds
+0167.325 (0) Table es_yoast_indexable: finishing file(s) (2, 10.1 KB)
+0167.332 (0) Table es_yoast_indexable_hierarchy: Total expected rows (approximate): 82
+0167.336 (0) Table es_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 82 (uncompressed bytes in this segment=2091) in 0.01 seconds
+0167.341 (0) Table es_yoast_indexable_hierarchy: finishing file(s) (2, 0.6 KB)
+0167.348 (0) Table es_yoast_migrations: Total expected rows (via COUNT): 23
+0167.349 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.352 (0) Table es_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1236) in 0.01 seconds
+0167.357 (0) Table es_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0167.364 (0) Table es_yoast_primary_term: Total expected rows (via COUNT): 0
+0167.366 (0) Table es_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=842) in 0.00 seconds
+0167.371 (0) Table es_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0167.378 (0) Table es_yoast_seo_links: Total expected rows (via COUNT): 111
+0167.379 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.388 (0) Table es_yoast_seo_links: Rows added in this batch (next record: 145): 111 (uncompressed bytes in this segment=15897) in 0.01 seconds
+0167.395 (0) Table es_yoast_seo_links: finishing file(s) (2, 2.4 KB)
+0167.397 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_options.table.tmpr9894.gz (1/96/fopen): adding to final database dump
+0167.414 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_options.table.gz (2/96/fopen): adding to final database dump
+0167.415 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_users.table.tmpr3.gz (3/96/fopen): adding to final database dump
+0167.416 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_users.table.gz (4/96/fopen): adding to final database dump
+0167.417 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_usermeta.table.tmpr74.gz (5/96/fopen): adding to final database dump
+0167.418 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_usermeta.table.gz (6/96/fopen): adding to final database dump
+0167.419 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_actions.table.tmpr97.gz (7/96/fopen): adding to final database dump
+0167.420 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_actions.table.gz (8/96/fopen): adding to final database dump
+0167.421 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_claims.table.tmpr0.gz (9/96/fopen): adding to final database dump
+0167.422 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_claims.table.gz (10/96/fopen): adding to final database dump
+0167.423 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_groups.table.tmpr7.gz (11/96/fopen): adding to final database dump
+0167.424 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_groups.table.gz (12/96/fopen): adding to final database dump
+0167.424 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_logs.table.tmpr261.gz (13/96/fopen): adding to final database dump
+0167.425 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_actionscheduler_logs.table.gz (14/96/fopen): adding to final database dump
+0167.426 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_commentmeta.table.tmpr0.gz (15/96/fopen): adding to final database dump
+0167.427 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_commentmeta.table.gz (16/96/fopen): adding to final database dump
+0167.428 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_comments.table.tmpr2.gz (17/96/fopen): adding to final database dump
+0167.429 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_comments.table.gz (18/96/fopen): adding to final database dump
+0167.430 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_notes.table.tmpr0.gz (19/96/fopen): adding to final database dump
+0167.431 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_notes.table.gz (20/96/fopen): adding to final database dump
+0167.432 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_notes_users_relations.table.tmpr0.gz (21/96/fopen): adding to final database dump
+0167.433 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_notes_users_relations.table.gz (22/96/fopen): adding to final database dump
+0167.434 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_links.table.tmpr0.gz (23/96/fopen): adding to final database dump
+0167.434 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_links.table.gz (24/96/fopen): adding to final database dump
+0167.435 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_postmeta.table.tmpr11852.gz (25/96/fopen): adding to final database dump
+0167.484 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_postmeta.table.gz (26/96/fopen): adding to final database dump
+0167.485 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_posts.table.tmpr1685.gz (27/96/fopen): adding to final database dump
+0167.492 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_posts.table.gz (28/96/fopen): adding to final database dump
+0167.493 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_term_relationships.table.tmpr100001.gz (29/96/fopen): adding to final database dump
+0167.494 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_term_relationships.table.gz (30/96/fopen): adding to final database dump
+0167.495 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_term_taxonomy.table.tmpr40.gz (31/96/fopen): adding to final database dump
+0167.496 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_term_taxonomy.table.gz (32/96/fopen): adding to final database dump
+0167.497 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_termmeta.table.tmpr8.gz (33/96/fopen): adding to final database dump
+0167.498 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_termmeta.table.gz (34/96/fopen): adding to final database dump
+0167.499 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_terms.table.tmpr40.gz (35/96/fopen): adding to final database dump
+0167.500 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_terms.table.gz (36/96/fopen): adding to final database dump
+0167.501 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_category_lookup.table.tmpr1001.gz (37/96/fopen): adding to final database dump
+0167.502 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_category_lookup.table.gz (38/96/fopen): adding to final database dump
+0167.503 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_product_meta_lookup.table.tmpr0.gz (39/96/fopen): adding to final database dump
+0167.504 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_product_meta_lookup.table.gz (40/96/fopen): adding to final database dump
+0167.505 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_reserved_stock.table.tmpr1.gz (41/96/fopen): adding to final database dump
+0167.506 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_reserved_stock.table.gz (42/96/fopen): adding to final database dump
+0167.507 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_tax_rate_classes.table.tmpr3.gz (43/96/fopen): adding to final database dump
+0167.508 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_tax_rate_classes.table.gz (44/96/fopen): adding to final database dump
+0167.509 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_order_itemmeta.table.tmpr0.gz (45/96/fopen): adding to final database dump
+0167.510 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_order_itemmeta.table.gz (46/96/fopen): adding to final database dump
+0167.511 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_payment_tokenmeta.table.tmpr0.gz (47/96/fopen): adding to final database dump
+0167.512 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_payment_tokenmeta.table.gz (48/96/fopen): adding to final database dump
+0167.514 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_events.table.tmpr0.gz (49/96/fopen): adding to final database dump
+0167.515 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_events.table.gz (50/96/fopen): adding to final database dump
+0167.516 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_submissions.table.tmpr0.gz (51/96/fopen): adding to final database dump
+0167.517 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_submissions.table.gz (52/96/fopen): adding to final database dump
+0167.518 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_submissions_actions_log.table.tmpr0.gz (53/96/fopen): adding to final database dump
+0167.518 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_submissions_actions_log.table.gz (54/96/fopen): adding to final database dump
+0167.519 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_submissions_values.table.tmpr0.gz (55/96/fopen): adding to final database dump
+0167.520 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_e_submissions_values.table.gz (56/96/fopen): adding to final database dump
+0167.521 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_budget_recommendations.table.tmpr4231.gz (57/96/fopen): adding to final database dump
+0167.523 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_budget_recommendations.table.gz (58/96/fopen): adding to final database dump
+0167.524 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_merchant_issues.table.tmpr0.gz (59/96/fopen): adding to final database dump
+0167.525 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_merchant_issues.table.gz (60/96/fopen): adding to final database dump
+0167.526 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_shipping_rates.table.tmpr0.gz (61/96/fopen): adding to final database dump
+0167.527 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_shipping_rates.table.gz (62/96/fopen): adding to final database dump
+0167.528 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_shipping_times.table.tmpr0.gz (63/96/fopen): adding to final database dump
+0167.529 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_gla_shipping_times.table.gz (64/96/fopen): adding to final database dump
+0167.530 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_custom_fields.table.tmpr0.gz (65/96/fopen): adding to final database dump
+0167.531 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_custom_fields.table.gz (66/96/fopen): adding to final database dump
+0167.532 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_dynamic_segment_filters.table.tmpr0.gz (67/96/fopen): adding to final database dump
+0167.533 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_dynamic_segment_filters.table.gz (68/96/fopen): adding to final database dump
+0167.534 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_feature_flags.table.tmpr0.gz (69/96/fopen): adding to final database dump
+0167.535 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_feature_flags.table.gz (70/96/fopen): adding to final database dump
+0167.535 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_forms.table.tmpr0.gz (71/96/fopen): adding to final database dump
+0167.536 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_forms.table.gz (72/96/fopen): adding to final database dump
+0167.537 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_log.table.tmpr0.gz (73/96/fopen): adding to final database dump
+0167.538 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_log.table.gz (74/96/fopen): adding to final database dump
+0167.539 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_mapping_to_external_entities.table.tmpr1.gz (75/96/fopen): adding to final database dump
+0167.540 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_mapping_to_external_entities.table.gz (76/96/fopen): adding to final database dump
+0167.541 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_links.table.tmpr0.gz (77/96/fopen): adding to final database dump
+0167.542 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_links.table.gz (78/96/fopen): adding to final database dump
+0167.543 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_option.table.tmpr0.gz (79/96/fopen): adding to final database dump
+0167.544 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_option.table.gz (80/96/fopen): adding to final database dump
+0167.545 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_option_fields.table.tmpr23.gz (81/96/fopen): adding to final database dump
+0167.546 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_option_fields.table.gz (82/96/fopen): adding to final database dump
+0167.547 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_posts.table.tmpr0.gz (83/96/fopen): adding to final database dump
+0167.548 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_posts.table.gz (84/96/fopen): adding to final database dump
+0167.550 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_segment.table.tmpr0.gz (85/96/fopen): adding to final database dump
+0167.551 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_segment.table.gz (86/96/fopen): adding to final database dump
+0167.552 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_templates.table.tmpr79.gz (87/96/fopen): adding to final database dump
+0167.555 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletter_templates.table.gz (88/96/fopen): adding to final database dump
+0167.555 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletters.table.tmpr0.gz (89/96/fopen): adding to final database dump
+0167.556 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_newsletters.table.gz (90/96/fopen): adding to final database dump
+0167.557 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_scheduled_task_subscribers.table.tmpr1.gz (91/96/fopen): adding to final database dump
+0167.559 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_scheduled_task_subscribers.table.gz (92/96/fopen): adding to final database dump
+0167.560 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_scheduled_tasks.table.tmpr76.gz (93/96/fopen): adding to final database dump
+0167.561 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_scheduled_tasks.table.gz (94/96/fopen): adding to final database dump
+0167.562 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_segments.table.tmpr4.gz (95/96/fopen): adding to final database dump
+0167.563 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_segments.table.gz (96/96/fopen): adding to final database dump
+0167.564 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_sending_queues.table.tmpr0.gz (97/96/fopen): adding to final database dump
+0167.565 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_sending_queues.table.gz (98/96/fopen): adding to final database dump
+0167.566 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_settings.table.tmpr17.gz (99/96/fopen): adding to final database dump
+0167.568 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_settings.table.gz (100/96/fopen): adding to final database dump
+0167.569 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_bounces.table.tmpr0.gz (101/96/fopen): adding to final database dump
+0167.570 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_bounces.table.gz (102/96/fopen): adding to final database dump
+0167.570 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_clicks.table.tmpr0.gz (103/96/fopen): adding to final database dump
+0167.571 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_clicks.table.gz (104/96/fopen): adding to final database dump
+0167.572 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_forms.table.tmpr0.gz (105/96/fopen): adding to final database dump
+0167.573 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_forms.table.gz (106/96/fopen): adding to final database dump
+0167.574 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_newsletters.table.tmpr0.gz (107/96/fopen): adding to final database dump
+0167.576 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_newsletters.table.gz (108/96/fopen): adding to final database dump
+0167.577 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_opens.table.tmpr0.gz (109/96/fopen): adding to final database dump
+0167.578 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_opens.table.gz (110/96/fopen): adding to final database dump
+0167.579 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_unsubscribes.table.tmpr0.gz (111/96/fopen): adding to final database dump
+0167.580 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_unsubscribes.table.gz (112/96/fopen): adding to final database dump
+0167.581 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_woocommerce_purchases.table.tmpr0.gz (113/96/fopen): adding to final database dump
+0167.583 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_statistics_woocommerce_purchases.table.gz (114/96/fopen): adding to final database dump
+0167.583 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_stats_notifications.table.tmpr0.gz (115/96/fopen): adding to final database dump
+0167.584 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_stats_notifications.table.gz (116/96/fopen): adding to final database dump
+0167.585 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscriber_custom_field.table.tmpr0.gz (117/96/fopen): adding to final database dump
+0167.586 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscriber_custom_field.table.gz (118/96/fopen): adding to final database dump
+0167.587 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscriber_ips.table.tmpr1.gz (119/96/fopen): adding to final database dump
+0167.588 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscriber_ips.table.gz (120/96/fopen): adding to final database dump
+0167.589 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscriber_segment.table.tmpr3.gz (121/96/fopen): adding to final database dump
+0167.590 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscriber_segment.table.gz (122/96/fopen): adding to final database dump
+0167.591 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscribers.table.tmpr3.gz (123/96/fopen): adding to final database dump
+0167.592 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_subscribers.table.gz (124/96/fopen): adding to final database dump
+0167.593 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_user_agents.table.tmpr0.gz (125/96/fopen): adding to final database dump
+0167.594 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_user_agents.table.gz (126/96/fopen): adding to final database dump
+0167.595 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_user_flags.table.tmpr0.gz (127/96/fopen): adding to final database dump
+0167.596 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_mailpoet_user_flags.table.gz (128/96/fopen): adding to final database dump
+0167.597 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_tm_taskmeta.table.tmpr0.gz (129/96/fopen): adding to final database dump
+0167.598 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_tm_taskmeta.table.gz (130/96/fopen): adding to final database dump
+0167.599 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_tm_tasks.table.tmpr0.gz (131/96/fopen): adding to final database dump
+0167.600 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_tm_tasks.table.gz (132/96/fopen): adding to final database dump
+0167.601 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_admin_note_actions.table.tmpr1374.gz (133/96/fopen): adding to final database dump
+0167.602 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_admin_note_actions.table.gz (134/96/fopen): adding to final database dump
+0167.603 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_admin_notes.table.tmpr52.gz (135/96/fopen): adding to final database dump
+0167.604 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_admin_notes.table.gz (136/96/fopen): adding to final database dump
+0167.605 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_customer_lookup.table.tmpr0.gz (137/96/fopen): adding to final database dump
+0167.606 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_customer_lookup.table.gz (138/96/fopen): adding to final database dump
+0167.607 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_download_log.table.tmpr0.gz (139/96/fopen): adding to final database dump
+0167.608 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_download_log.table.gz (140/96/fopen): adding to final database dump
+0167.609 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_coupon_lookup.table.tmpr1.gz (141/96/fopen): adding to final database dump
+0167.610 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_coupon_lookup.table.gz (142/96/fopen): adding to final database dump
+0167.610 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_product_lookup.table.tmpr0.gz (143/96/fopen): adding to final database dump
+0167.611 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_product_lookup.table.gz (144/96/fopen): adding to final database dump
+0167.612 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_stats.table.tmpr0.gz (145/96/fopen): adding to final database dump
+0167.614 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_stats.table.gz (146/96/fopen): adding to final database dump
+0167.615 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_tax_lookup.table.tmpr1.gz (147/96/fopen): adding to final database dump
+0167.616 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_order_tax_lookup.table.gz (148/96/fopen): adding to final database dump
+0167.617 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_product_attributes_lookup.table.tmpr1.gz (149/96/fopen): adding to final database dump
+0167.618 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_product_attributes_lookup.table.gz (150/96/fopen): adding to final database dump
+0167.619 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_product_download_directories.table.tmpr3.gz (151/96/fopen): adding to final database dump
+0167.620 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_product_download_directories.table.gz (152/96/fopen): adding to final database dump
+0167.621 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_rate_limits.table.tmpr0.gz (153/96/fopen): adding to final database dump
+0167.622 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_rate_limits.table.gz (154/96/fopen): adding to final database dump
+0167.623 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_webhooks.table.tmpr0.gz (155/96/fopen): adding to final database dump
+0167.623 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wc_webhooks.table.gz (156/96/fopen): adding to final database dump
+0167.624 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_api_keys.table.tmpr0.gz (157/96/fopen): adding to final database dump
+0167.625 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_api_keys.table.gz (158/96/fopen): adding to final database dump
+0167.626 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_attribute_taxonomies.table.tmpr0.gz (159/96/fopen): adding to final database dump
+0167.627 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_attribute_taxonomies.table.gz (160/96/fopen): adding to final database dump
+0167.628 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_downloadable_product_permissions.table.tmpr0.gz (161/96/fopen): adding to final database dump
+0167.629 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_downloadable_product_permissions.table.gz (162/96/fopen): adding to final database dump
+0167.630 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_log.table.tmpr0.gz (163/96/fopen): adding to final database dump
+0167.631 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_log.table.gz (164/96/fopen): adding to final database dump
+0167.632 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_order_items.table.tmpr0.gz (165/96/fopen): adding to final database dump
+0167.633 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_order_items.table.gz (166/96/fopen): adding to final database dump
+0167.634 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_payment_tokens.table.tmpr0.gz (167/96/fopen): adding to final database dump
+0167.635 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_payment_tokens.table.gz (168/96/fopen): adding to final database dump
+0167.636 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_sessions.table.tmpr9.gz (169/96/fopen): adding to final database dump
+0167.637 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_sessions.table.gz (170/96/fopen): adding to final database dump
+0167.638 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_shipping_zone_locations.table.tmpr0.gz (171/96/fopen): adding to final database dump
+0167.639 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_shipping_zone_locations.table.gz (172/96/fopen): adding to final database dump
+0167.640 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_shipping_zone_methods.table.tmpr0.gz (173/96/fopen): adding to final database dump
+0167.641 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_shipping_zone_methods.table.gz (174/96/fopen): adding to final database dump
+0167.642 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_shipping_zones.table.tmpr0.gz (175/96/fopen): adding to final database dump
+0167.643 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_shipping_zones.table.gz (176/96/fopen): adding to final database dump
+0167.644 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_tax_rate_locations.table.tmpr0.gz (177/96/fopen): adding to final database dump
+0167.645 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_tax_rate_locations.table.gz (178/96/fopen): adding to final database dump
+0167.646 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_tax_rates.table.tmpr0.gz (179/96/fopen): adding to final database dump
+0167.647 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_woocommerce_tax_rates.table.gz (180/96/fopen): adding to final database dump
+0167.648 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wpforms_tasks_meta.table.tmpr17.gz (181/96/fopen): adding to final database dump
+0167.649 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_wpforms_tasks_meta.table.gz (182/96/fopen): adding to final database dump
+0167.650 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_indexable.table.tmpr87.gz (183/96/fopen): adding to final database dump
+0167.652 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_indexable.table.gz (184/96/fopen): adding to final database dump
+0167.653 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_indexable_hierarchy.table.tmpr1001.gz (185/96/fopen): adding to final database dump
+0167.654 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_indexable_hierarchy.table.gz (186/96/fopen): adding to final database dump
+0167.655 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_migrations.table.tmpr24.gz (187/96/fopen): adding to final database dump
+0167.656 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_migrations.table.gz (188/96/fopen): adding to final database dump
+0167.656 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_primary_term.table.tmpr0.gz (189/96/fopen): adding to final database dump
+0167.657 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_primary_term.table.gz (190/96/fopen): adding to final database dump
+0167.658 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_seo_links.table.tmpr146.gz (191/96/fopen): adding to final database dump
+0167.659 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db-table-es_yoast_seo_links.table.gz (192/96/fopen): adding to final database dump
+0167.664 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: finished writing out complete database file (2677 KB)
+0167.706 (0) Total database tables backed up: 96 (backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz, size: 2741339, sha1: 7e41ecfe960c90bfbdcfb824d82f17935b4497ab, sha256: f6e3b8314eaffa92f2560252d0d72975e59273ff4247c752af659657c9a4aa3a)
+0167.714 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0167.715 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0167.716 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0167.717 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has not yet been successfully uploaded: will queue
+0167.718 (0) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0167.719 (0) Saving backup history. Total backup size: 94 MB
+0167.721 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0167.724 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0167.725 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+0172.208 (0) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+0172.209 (0) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0179.897 (0) Googledrive chunked upload: 1.9 % uploaded (1048576)
+0239.901 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0300.722 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0300.724 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0300.724 (0) An error condition has occurred for the first time during this job
+0301.342 (0) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+0301.343 (0) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0307.194 (0) The time we have been running (307.2) is approaching the resumption interval (300) - increasing resumption interval to 338
+0307.196 (0) Googledrive chunked upload: 15.7 % uploaded (1048576)
+0367.199 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0428.004 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0428.006 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0428.733 (0) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+0428.734 (0) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0489.628 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0550.455 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0550.457 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0551.288 (0) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+0551.289 (0) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0558.886 (0) The time we have been running (558.9) is approaching the resumption interval (338) - increasing resumption interval to 589
+0558.888 (0) Googledrive chunked upload: 38.6 % uploaded (1048576)
+0618.891 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0679.504 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0679.506 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0680.314 (0) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+0680.315 (0) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0741.050 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0749.354 (0) The time we have been running (749.4) is approaching the resumption interval (589) - increasing resumption interval to 780
+0749.356 (0) Googledrive chunked upload: 38.3 % uploaded (1048576)
+0809.359 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0809.362 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0809.364 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0809.365 (0) Number of backup sets in history: 3; groups (db): 1
+0809.366 (0) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+0809.367 (0) This backup set is the backup set just made, so will not be deleted.
+0809.367 (0) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+0809.367 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0809.368 (0) Examining (for databases) backup set with group_id=0, nonce=7cb438889640, datestamp=1656590939 (Jun 30 2022 12:08:59)
+0809.368 (0) 1656590939: db: this set includes a database (backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-db.gz); db count is now 2
+0809.368 (0) 1656590939: db: over retain limit (2); will delete this database
+0809.368 (0) Delete file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-db.gz, service=googledrive
+0809.369 (0) Deleting local copy (backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-db.gz)
+0811.201 (0) Google Drive: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-db.gz: Deletion failed: file was not found
+0811.205 (0) The time we have been running (811.2) is approaching the resumption interval (780) - increasing resumption interval to 842
+0811.207 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0811.208 (0) Number of backup sets in history: 3; groups (files): 1
+0811.209 (0) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+0811.209 (0) This backup set is the backup set just made, so will not be deleted.
+0811.210 (0) This backup set is the backup set just made, so will not be deleted.
+0811.210 (0) This backup set is the backup set just made, so will not be deleted.
+0811.210 (0) This backup set is the backup set just made, so will not be deleted.
+0811.211 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0811.212 (0) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+0811.212 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0811.212 (0) Examining (for files) backup set with nonce=7cb438889640, datestamp=1656590939 (Jun 30 2022 12:08:59)
+0811.212 (0) plugins: over retain limit (2); will delete this file entity
+0811.212 (0) themes: over retain limit (2); will delete this file entity
+0811.212 (0) uploads: over retain limit (2); will delete this file entity
+0811.212 (0) others: over retain limit (2); will delete this file entity
+0811.212 (0) Delete file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-plugins.zip, service=googledrive
+0811.213 (0) Deleting local copy (backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-plugins.zip)
+0811.214 (0) Delete file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-themes.zip, service=googledrive
+0811.215 (0) Deleting local copy (backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-themes.zip)
+0811.216 (0) Delete file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-uploads.zip, service=googledrive
+0811.217 (0) Deleting local copy (backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-uploads.zip)
+0811.218 (0) Delete file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-others.zip, service=googledrive
+0811.220 (0) Deleting local copy (backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-others.zip)
+0811.924 (0) Google Drive: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-plugins.zip: Deletion failed: file was not found
+0811.925 (0) Google Drive: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-themes.zip: Deletion failed: file was not found
+0811.926 (0) Google Drive: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-uploads.zip: Deletion failed: file was not found
+0811.927 (0) Google Drive: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-others.zip: Deletion failed: file was not found
+0811.929 (0) This backup set is now empty; will remove from history
+0811.930 (0) Deleting log file (log.7cb438889640.txt)
+0811.931 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0811.934 (0) Resume backup (f40a2d004bb5, 0): finish run
+0811.936 (0) Decremented the semaphore (fd) by 1
+0811.937 (0) Semaphore (fd) unlocked
+0811.938 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0811.941 (0) Rescheduling resumption 1: moving to 60 seconds from now (1656942779)
+0811.944 (0) No email will/can be sent - the user has not configured an email address.
+0811.945 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0940.039 (1) Opened log file at time: Mon, 04 Jul 2022 13:54:07 +0000 on http://evaluation-studi
+0940.041 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.9M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0940.042 (1) Free space on disk containing Updraft's temporary directory: 264296.2 MB
+0940.043 (1) Requesting backup semaphore lock (f40a2d004bb5)
+0940.045 (1) [Debug] Lock option (updraft_lock_f40a2d004bb5, es_options) was created in the database
+0940.045 (1) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired after initialising the database
+0940.047 (1) Backup run: resumption=1, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (940s ago), job type=backup, previous check-in=811.93s
+0940.050 (1) Scheduling a resumption (2) after 842 seconds (1656943689) in case this run gets aborted
+0940.072 (1) Checking if we have a zip executable available
+0940.073 (1) Creation of backups of directories: already finished
+0940.075 (1) Saving backup status to database (elements: 8)
+0940.078 (1) Database dump (WordPress DB): Creation was completed already
+0940.079 (1) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0940.085 (1) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0940.086 (1) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0940.087 (1) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0940.088 (1) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has not yet been successfully uploaded: will queue
+0940.089 (1) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0940.090 (1) Saving backup history. Total backup size: 94 MB
+0940.092 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0940.094 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0940.095 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+0942.671 (1) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+0942.672 (1) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+1003.505 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1064.228 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1064.230 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1064.231 (1) An error condition has occurred for the first time during this job
+1065.057 (1) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+1065.058 (1) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+1125.774 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1186.893 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1186.895 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1187.941 (1) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+1187.942 (1) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+1248.756 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1309.481 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1309.482 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1310.093 (1) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+1310.094 (1) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+1370.922 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1431.646 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1431.647 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1432.484 (1) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+1432.485 (1) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+1493.198 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1554.120 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1554.121 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1554.123 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1554.124 (1) Number of backup sets in history: 2; groups (db): 1
+1554.125 (1) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+1554.126 (1) This backup set is the backup set just made, so will not be deleted.
+1554.126 (1) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+1554.126 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+1554.127 (1) Number of backup sets in history: 2; groups (files): 1
+1554.128 (1) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+1554.128 (1) This backup set is the backup set just made, so will not be deleted.
+1554.129 (1) This backup set is the backup set just made, so will not be deleted.
+1554.129 (1) This backup set is the backup set just made, so will not be deleted.
+1554.129 (1) This backup set is the backup set just made, so will not be deleted.
+1554.129 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+1554.130 (1) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+1554.130 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+1554.131 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1554.133 (1) Resume backup (f40a2d004bb5, 1): finish run
+1554.134 (1) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+1554.135 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1554.137 (1) No email will/can be sent - the user has not configured an email address.
+1554.138 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1824.602 (2) Opened log file at time: Mon, 04 Jul 2022 14:08:52 +0000 on http://evaluation-studi
+1824.604 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 40.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1824.605 (2) Free space on disk containing Updraft's temporary directory: 264299.2 MB
+1824.605 (2) Requesting backup semaphore lock (f40a2d004bb5)
+1824.607 (2) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+1824.609 (2) Backup run: resumption=2, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (1825s ago), job type=backup
+1824.611 (2) Scheduling a resumption (3) after 842 seconds (1656944574) in case this run gets aborted
+1824.614 (2) Checking if we have a zip executable available
+1824.614 (2) Creation of backups of directories: already finished
+1824.616 (2) Saving backup status to database (elements: 8)
+1824.619 (2) Database dump (WordPress DB): Creation was completed already
+1824.620 (2) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+1824.625 (2) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1824.626 (2) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1824.627 (2) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1824.627 (2) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has not yet been successfully uploaded: will queue
+1824.628 (2) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has not yet been successfully uploaded: will queue
+1824.629 (2) Saving backup history. Total backup size: 94 MB
+1824.631 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+1824.633 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1824.635 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+1826.921 (2) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+1826.922 (2) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+1832.350 (2) Googledrive chunked upload: 1.9 % uploaded (1048576)
+1836.649 (2) Googledrive chunked upload: 3.9 % uploaded (2097152)
+1896.652 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1901.474 (2) Googledrive chunked upload: 1.9 % uploaded (1048576)
+1961.477 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1961.480 (2) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1961.480 (2) An error condition has occurred for the first time during this job
+1962.357 (2) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+1962.358 (2) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+1967.518 (2) Googledrive chunked upload: 15.7 % uploaded (1048576)
+1971.935 (2) Googledrive chunked upload: 31.3 % uploaded (2097152)
+1976.227 (2) Googledrive chunked upload: 47 % uploaded (3145728)
+1980.630 (2) Googledrive chunked upload: 62.6 % uploaded (4194304)
+2040.634 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2101.620 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2101.622 (2) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2102.570 (2) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+2102.571 (2) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+2108.714 (2) Googledrive chunked upload: 3.2 % uploaded (1048576)
+2113.138 (2) Googledrive chunked upload: 6.5 % uploaded (2097152)
+2117.811 (2) Googledrive chunked upload: 9.7 % uploaded (3145728)
+2121.496 (2) Googledrive chunked upload: 13 % uploaded (4194304)
+2181.501 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2185.863 (2) Googledrive chunked upload: 3.2 % uploaded (1048576)
+2245.867 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2245.869 (2) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2246.567 (2) Google Drive: quota usage: used=706.6 MB, total=30720 MB, available=30013.4 MB
+2246.568 (2) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+2251.749 (2) Googledrive chunked upload: 38.6 % uploaded (1048576)
+2256.172 (2) Googledrive chunked upload: 77.3 % uploaded (2097152)
+2260.187 (2) Googledrive chunked upload: 100 % uploaded (2097152)
+2260.190 (2) Google Drive: OK: Archive backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip uploaded in 13.62 seconds
+2260.191 (2) Recording as successfully uploaded: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip
+2260.193 (2) Deleting local file: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: OK
+2260.194 (2) Deleting zip manifest (backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip.list.tmp)
+2260.965 (2) Google Drive: quota usage: used=709.2 MB, total=30720 MB, available=30010.8 MB
+2260.966 (2) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+2321.702 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2327.816 (2) Googledrive chunked upload: 38.3 % uploaded (1048576)
+2331.745 (2) Googledrive chunked upload: 76.5 % uploaded (2097152)
+2335.656 (2) Googledrive chunked upload: 100 % uploaded (2097152)
+2335.660 (2) Google Drive: OK: Archive backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz uploaded in 74.69 seconds
+2335.661 (2) Recording as successfully uploaded: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz
+2335.663 (2) Deleting local file: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: OK
+2335.666 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2335.667 (2) Number of backup sets in history: 2; groups (db): 1
+2335.668 (2) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+2335.669 (2) This backup set is the backup set just made, so will not be deleted.
+2335.669 (2) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+2335.669 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+2335.670 (2) Number of backup sets in history: 2; groups (files): 1
+2335.670 (2) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+2335.670 (2) This backup set is the backup set just made, so will not be deleted.
+2335.671 (2) This backup set is the backup set just made, so will not be deleted.
+2335.671 (2) This backup set is the backup set just made, so will not be deleted.
+2335.672 (2) This backup set is the backup set just made, so will not be deleted.
+2335.672 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+2335.673 (2) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+2335.673 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+2335.673 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2335.676 (2) Resume backup (f40a2d004bb5, 2): finish run
+2335.678 (2) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+2335.679 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2335.681 (2) No email will/can be sent - the user has not configured an email address.
+2335.682 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2668.470 (3) Opened log file at time: Mon, 04 Jul 2022 14:22:56 +0000 on http://evaluation-studi
+2668.472 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.9M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+2668.473 (3) Free space on disk containing Updraft's temporary directory: 264300.4 MB
+2668.474 (3) Requesting backup semaphore lock (f40a2d004bb5)
+2668.475 (3) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+2668.477 (3) Backup run: resumption=3, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (2669s ago), job type=backup, previous check-in=511.05s
+2668.479 (3) Scheduling a resumption (4) after 842 seconds (1656945418) in case this run gets aborted
+2668.482 (3) Checking if we have a zip executable available
+2668.483 (3) Creation of backups of directories: already finished
+2668.484 (3) Saving backup status to database (elements: 8)
+2668.488 (3) Database dump (WordPress DB): Creation was completed already
+2668.489 (3) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+2668.492 (3) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2668.493 (3) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2668.494 (3) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2668.495 (3) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has already been successfully uploaded
+2668.496 (3) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has already been successfully uploaded
+2668.497 (3) Saving backup history. Total backup size: Unknown
+2668.499 (3) Requesting upload of the files that have not yet been successfully uploaded (3)
+2668.501 (3) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2668.503 (3) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+2671.022 (3) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+2671.023 (3) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+2731.840 (3) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2792.564 (3) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2792.565 (3) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2792.566 (3) An error condition has occurred for the first time during this job
+2793.421 (3) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+2793.422 (3) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+2798.411 (3) Googledrive chunked upload: 15.7 % uploaded (1048576)
+2858.415 (3) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2919.406 (3) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2919.408 (3) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2920.358 (3) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+2920.359 (3) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+2925.490 (3) Googledrive chunked upload: 3.2 % uploaded (1048576)
+2985.494 (3) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2990.618 (3) Googledrive chunked upload: 3.2 % uploaded (1048576)
+3050.620 (3) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3050.623 (3) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3050.625 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+3050.626 (3) Number of backup sets in history: 2; groups (db): 1
+3050.627 (3) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+3050.628 (3) This backup set is the backup set just made, so will not be deleted.
+3050.628 (3) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+3050.628 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+3050.629 (3) Number of backup sets in history: 2; groups (files): 1
+3050.629 (3) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+3050.629 (3) This backup set is the backup set just made, so will not be deleted.
+3050.630 (3) This backup set is the backup set just made, so will not be deleted.
+3050.630 (3) This backup set is the backup set just made, so will not be deleted.
+3050.631 (3) This backup set is the backup set just made, so will not be deleted.
+3050.631 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+3050.632 (3) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+3050.632 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+3050.632 (3) Retain: saving new backup history (sets now: 2) and finishing retain operation
+3050.634 (3) Resume backup (f40a2d004bb5, 3): finish run
+3050.636 (3) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+3050.637 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3050.639 (3) No email will/can be sent - the user has not configured an email address.
+3050.640 (3) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3511.443 (4) Opened log file at time: Mon, 04 Jul 2022 14:36:59 +0000 on http://evaluation-studi
+3511.444 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 40.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+3511.445 (4) Free space on disk containing Updraft's temporary directory: 264314.4 MB
+3511.446 (4) Requesting backup semaphore lock (f40a2d004bb5)
+3511.448 (4) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+3511.450 (4) Backup run: resumption=4, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (3512s ago), job type=backup, previous check-in=322.15s
+3511.451 (4) Scheduling a resumption (5) after 842 seconds (1656946261) in case this run gets aborted
+3511.454 (4) Checking if we have a zip executable available
+3511.454 (4) Creation of backups of directories: already finished
+3511.456 (4) Saving backup status to database (elements: 8)
+3511.458 (4) Database dump (WordPress DB): Creation was completed already
+3511.459 (4) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+3511.462 (4) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3511.463 (4) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3511.464 (4) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3511.464 (4) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has already been successfully uploaded
+3511.465 (4) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has already been successfully uploaded
+3511.466 (4) Saving backup history. Total backup size: Unknown
+3511.468 (4) Requesting upload of the files that have not yet been successfully uploaded (3)
+3511.470 (4) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+3511.471 (4) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+3513.895 (4) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+3513.896 (4) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+3519.294 (4) Googledrive chunked upload: 1.9 % uploaded (1048576)
+3579.297 (4) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3640.132 (4) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3640.133 (4) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3640.134 (4) An error condition has occurred for the first time during this job
+3640.946 (4) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+3640.947 (4) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+3701.681 (4) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3762.385 (4) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3762.387 (4) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3762.976 (4) Google Drive: quota usage: failed to obtain this information: Error refreshing the OAuth2 token, message: '{
+  "error": "invalid_request",
+  "error_description": "Missing required parameter: refresh_token"
+}'
+3762.977 (4) Google Drive: quota usage: will attempt to refresh OAuth2 token and fetch this information again
+3766.413 (4) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+3766.414 (4) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+3771.430 (4) Googledrive chunked upload: 3.2 % uploaded (1048576)
+3831.433 (4) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3892.357 (4) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3892.359 (4) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3892.361 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+3892.362 (4) Number of backup sets in history: 2; groups (db): 1
+3892.363 (4) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+3892.364 (4) This backup set is the backup set just made, so will not be deleted.
+3892.364 (4) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+3892.364 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+3892.365 (4) Number of backup sets in history: 2; groups (files): 1
+3892.367 (4) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+3892.367 (4) This backup set is the backup set just made, so will not be deleted.
+3892.368 (4) This backup set is the backup set just made, so will not be deleted.
+3892.369 (4) This backup set is the backup set just made, so will not be deleted.
+3892.369 (4) This backup set is the backup set just made, so will not be deleted.
+3892.369 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+3892.370 (4) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+3892.370 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+3892.371 (4) Retain: saving new backup history (sets now: 2) and finishing retain operation
+3892.373 (4) Resume backup (f40a2d004bb5, 4): finish run
+3892.374 (4) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+3892.375 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3892.377 (4) No email will/can be sent - the user has not configured an email address.
+3892.378 (4) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+4354.809 (5) Opened log file at time: Mon, 04 Jul 2022 14:51:02 +0000 on http://evaluation-studi
+4354.810 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.9M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+4354.811 (5) Free space on disk containing Updraft's temporary directory: 264313.9 MB
+4354.812 (5) Requesting backup semaphore lock (f40a2d004bb5)
+4354.813 (5) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+4354.815 (5) Backup run: resumption=5, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (4355s ago), job type=backup, previous check-in=259.99s
+4354.817 (5) Scheduling a resumption (6) after 842 seconds (1656947104) in case this run gets aborted
+4354.819 (5) Checking if we have a zip executable available
+4354.820 (5) Creation of backups of directories: already finished
+4354.821 (5) Saving backup status to database (elements: 8)
+4354.824 (5) Database dump (WordPress DB): Creation was completed already
+4354.825 (5) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+4354.827 (5) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+4354.828 (5) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+4354.829 (5) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+4354.830 (5) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has already been successfully uploaded
+4354.830 (5) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has already been successfully uploaded
+4354.831 (5) Saving backup history. Total backup size: Unknown
+4354.833 (5) Requesting upload of the files that have not yet been successfully uploaded (3)
+4354.835 (5) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+4354.836 (5) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+4357.475 (5) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+4357.476 (5) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+4418.190 (5) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4423.427 (5) Googledrive chunked upload: 1.9 % uploaded (1048576)
+4483.431 (5) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4483.433 (5) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4483.434 (5) An error condition has occurred for the first time during this job
+4484.153 (5) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+4484.154 (5) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+4544.925 (5) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4605.855 (5) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4605.857 (5) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4606.688 (5) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+4606.690 (5) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+4667.423 (5) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4728.249 (5) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4728.251 (5) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4728.253 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+4728.255 (5) Number of backup sets in history: 2; groups (db): 1
+4728.256 (5) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+4728.256 (5) This backup set is the backup set just made, so will not be deleted.
+4728.256 (5) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+4728.256 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+4728.257 (5) Number of backup sets in history: 2; groups (files): 1
+4728.258 (5) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+4728.258 (5) This backup set is the backup set just made, so will not be deleted.
+4728.259 (5) This backup set is the backup set just made, so will not be deleted.
+4728.259 (5) This backup set is the backup set just made, so will not be deleted.
+4728.259 (5) This backup set is the backup set just made, so will not be deleted.
+4728.259 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+4728.260 (5) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+4728.260 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+4728.260 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+4728.263 (5) Resume backup (f40a2d004bb5, 5): finish run
+4728.264 (5) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+4728.265 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+4728.267 (5) No email will/can be sent - the user has not configured an email address.
+4728.268 (5) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+5198.589 (6) Opened log file at time: Mon, 04 Jul 2022 15:05:06 +0000 on http://evaluation-studi
+5198.590 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.9M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+5198.591 (6) Free space on disk containing Updraft's temporary directory: 264313.3 MB
+5198.592 (6) Requesting backup semaphore lock (f40a2d004bb5)
+5198.593 (6) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+5198.595 (6) Backup run: resumption=6, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (5199s ago), job type=backup, previous check-in=68.62s
+5198.597 (6) Scheduling a resumption (7) after 842 seconds (1656947948) in case this run gets aborted
+5198.600 (6) Checking if we have a zip executable available
+5198.601 (6) Creation of backups of directories: already finished
+5198.602 (6) Saving backup status to database (elements: 8)
+5198.604 (6) Database dump (WordPress DB): Creation was completed already
+5198.605 (6) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+5198.608 (6) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+5198.609 (6) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+5198.610 (6) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+5198.611 (6) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has already been successfully uploaded
+5198.612 (6) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has already been successfully uploaded
+5198.612 (6) Saving backup history. Total backup size: Unknown
+5198.614 (6) Requesting upload of the files that have not yet been successfully uploaded (3)
+5198.616 (6) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+5198.617 (6) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+5200.954 (6) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+5200.955 (6) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+5206.362 (6) Googledrive chunked upload: 1.9 % uploaded (1048576)
+5210.661 (6) Googledrive chunked upload: 3.9 % uploaded (2097152)
+5215.192 (6) Googledrive chunked upload: 5.8 % uploaded (3145728)
+5220.002 (6) Googledrive chunked upload: 7.8 % uploaded (4194304)
+5224.404 (6) Googledrive chunked upload: 9.7 % uploaded (5242880)
+5284.407 (6) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5345.231 (6) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5345.233 (6) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5345.234 (6) An error condition has occurred for the first time during this job
+5345.954 (6) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+5345.955 (6) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+5406.775 (6) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5411.905 (6) Googledrive chunked upload: 15.7 % uploaded (1048576)
+5471.908 (6) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5471.911 (6) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5472.895 (6) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+5472.896 (6) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+5533.630 (6) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5538.986 (6) Googledrive chunked upload: 3.2 % uploaded (1048576)
+5543.286 (6) Googledrive chunked upload: 6.5 % uploaded (2097152)
+5548.201 (6) Googledrive chunked upload: 9.7 % uploaded (3145728)
+5552.768 (6) Googledrive chunked upload: 13 % uploaded (4194304)
+5556.457 (6) Googledrive chunked upload: 16.2 % uploaded (5242880)
+5616.460 (6) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5616.463 (6) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+5616.466 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+5616.467 (6) Number of backup sets in history: 2; groups (db): 1
+5616.468 (6) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+5616.469 (6) This backup set is the backup set just made, so will not be deleted.
+5616.469 (6) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+5616.469 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+5616.469 (6) Number of backup sets in history: 2; groups (files): 1
+5616.470 (6) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+5616.470 (6) This backup set is the backup set just made, so will not be deleted.
+5616.471 (6) This backup set is the backup set just made, so will not be deleted.
+5616.471 (6) This backup set is the backup set just made, so will not be deleted.
+5616.471 (6) This backup set is the backup set just made, so will not be deleted.
+5616.472 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+5616.472 (6) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+5616.473 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+5616.473 (6) Retain: saving new backup history (sets now: 2) and finishing retain operation
+5616.475 (6) Resume backup (f40a2d004bb5, 6): finish run
+5616.476 (6) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+5616.477 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+5616.479 (6) No email will/can be sent - the user has not configured an email address.
+5616.480 (6) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+6041.534 (7) Opened log file at time: Mon, 04 Jul 2022 15:19:09 +0000 on http://evaluation-studi
+6041.535 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.9M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+6041.536 (7) Free space on disk containing Updraft's temporary directory: 264310.5 MB
+6041.537 (7) Requesting backup semaphore lock (f40a2d004bb5)
+6041.538 (7) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+6041.540 (7) Backup run: resumption=7, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (6042s ago), job type=backup, previous check-in=357.87s
+6041.542 (7) Scheduling a resumption (8) after 842 seconds (1656948791) in case this run gets aborted
+6041.544 (7) Checking if we have a zip executable available
+6041.545 (7) Creation of backups of directories: already finished
+6041.546 (7) Saving backup status to database (elements: 8)
+6041.549 (7) Database dump (WordPress DB): Creation was completed already
+6041.550 (7) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+6041.553 (7) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+6041.554 (7) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+6041.555 (7) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+6041.555 (7) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has already been successfully uploaded
+6041.556 (7) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has already been successfully uploaded
+6041.557 (7) Saving backup history. Total backup size: Unknown
+6041.559 (7) Requesting upload of the files that have not yet been successfully uploaded (3)
+6041.561 (7) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+6041.562 (7) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+6043.812 (7) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+6043.813 (7) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+6104.543 (7) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6165.252 (7) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6165.253 (7) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6165.254 (7) An error condition has occurred for the first time during this job
+6166.399 (7) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+6166.400 (7) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+6171.378 (7) Googledrive chunked upload: 15.7 % uploaded (1048576)
+6175.788 (7) Googledrive chunked upload: 31.3 % uploaded (2097152)
+6179.597 (7) Googledrive chunked upload: 47 % uploaded (3145728)
+6239.600 (7) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6245.221 (7) Googledrive chunked upload: 15.7 % uploaded (1048576)
+6305.225 (7) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6305.227 (7) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6306.382 (7) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+6306.383 (7) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+6367.274 (7) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6373.755 (7) Googledrive chunked upload: 3.2 % uploaded (1048576)
+6377.933 (7) Googledrive chunked upload: 6.5 % uploaded (2097152)
+6437.936 (7) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6437.939 (7) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+6437.941 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+6437.942 (7) Number of backup sets in history: 2; groups (db): 1
+6437.943 (7) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+6437.944 (7) This backup set is the backup set just made, so will not be deleted.
+6437.944 (7) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+6437.944 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+6437.945 (7) Number of backup sets in history: 2; groups (files): 1
+6437.946 (7) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+6437.946 (7) This backup set is the backup set just made, so will not be deleted.
+6437.946 (7) This backup set is the backup set just made, so will not be deleted.
+6437.947 (7) This backup set is the backup set just made, so will not be deleted.
+6437.947 (7) This backup set is the backup set just made, so will not be deleted.
+6437.947 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+6437.948 (7) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+6437.948 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+6437.948 (7) Retain: saving new backup history (sets now: 2) and finishing retain operation
+6437.951 (7) Resume backup (f40a2d004bb5, 7): finish run
+6437.951 (7) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+6437.952 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+6437.955 (7) No email will/can be sent - the user has not configured an email address.
+6437.956 (7) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+6885.354 (8) Opened log file at time: Mon, 04 Jul 2022 15:33:13 +0000 on http://evaluation-studi
+6885.355 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.9M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+6885.356 (8) Free space on disk containing Updraft's temporary directory: 264311.2 MB
+6885.357 (8) Requesting backup semaphore lock (f40a2d004bb5)
+6885.358 (8) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+6885.360 (8) Backup run: resumption=8, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (6886s ago), job type=backup, previous check-in=336.4s
+6885.362 (8) Time passed on previous resumptions: 0:811.9 1:? 2:511.1 3:322.1 4:260 5:68.6 6:357.9 7:336.4  (known: 7, max: 812)
+6885.363 (8) Scheduling a resumption (9) after 842 seconds (1656949635) in case this run gets aborted
+6885.366 (8) Checking if we have a zip executable available
+6885.367 (8) Creation of backups of directories: already finished
+6885.368 (8) Saving backup status to database (elements: 8)
+6885.372 (8) Database dump (WordPress DB): Creation was completed already
+6885.373 (8) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+6885.376 (8) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+6885.377 (8) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+6885.378 (8) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+6885.378 (8) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has already been successfully uploaded
+6885.379 (8) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has already been successfully uploaded
+6885.380 (8) Saving backup history. Total backup size: Unknown
+6885.382 (8) Requesting upload of the files that have not yet been successfully uploaded (3)
+6885.384 (8) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+6885.385 (8) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+6887.057 (8) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+6887.058 (8) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+6947.711 (8) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7008.279 (8) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7008.281 (8) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7008.281 (8) An error condition has occurred for the first time during this job
+7008.940 (8) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+7008.941 (8) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+7069.520 (8) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7130.099 (8) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7130.100 (8) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7130.669 (8) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+7130.670 (8) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+7191.285 (8) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7251.982 (8) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7251.983 (8) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7251.986 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+7251.987 (8) Number of backup sets in history: 2; groups (db): 1
+7251.988 (8) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+7251.989 (8) This backup set is the backup set just made, so will not be deleted.
+7251.989 (8) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+7251.989 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+7251.989 (8) Number of backup sets in history: 2; groups (files): 1
+7251.990 (8) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+7251.990 (8) This backup set is the backup set just made, so will not be deleted.
+7251.991 (8) This backup set is the backup set just made, so will not be deleted.
+7251.991 (8) This backup set is the backup set just made, so will not be deleted.
+7251.992 (8) This backup set is the backup set just made, so will not be deleted.
+7251.992 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+7251.993 (8) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+7251.993 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+7251.993 (8) Retain: saving new backup history (sets now: 2) and finishing retain operation
+7251.996 (8) Resume backup (f40a2d004bb5, 8): finish run
+7251.997 (8) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+7251.998 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+7252.000 (8) No email will/can be sent - the user has not configured an email address.
+7252.000 (8) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+7730.612 (9) Opened log file at time: Mon, 04 Jul 2022 15:47:18 +0000 on http://evaluation-studi
+7730.614 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 40.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+7730.614 (9) Free space on disk containing Updraft's temporary directory: 264294.3 MB
+7730.615 (9) Requesting backup semaphore lock (f40a2d004bb5)
+7730.616 (9) [Info] Lock (updraft_lock_f40a2d004bb5, es_options) acquired
+7730.618 (9) Backup run: resumption=9, nonce=f40a2d004bb5, file_nonce=f40a2d004bb5 begun at=1656941907 (7731s ago), job type=backup
+7730.620 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 7) - will not schedule a further attempt until we see something useful happening this time
+7730.622 (9) Scheduling a resumption (10) after 842 seconds (1656950480); but the job will then be aborted unless something happens this time
+7730.624 (9) Creation of backups of directories: already finished
+7730.626 (9) Saving backup status to database (elements: 8)
+7730.628 (9) Database dump (WordPress DB): Creation was completed already
+7730.629 (9) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+7730.632 (9) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+7730.633 (9) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+7730.634 (9) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+7730.635 (9) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-others.zip: others: This file has already been successfully uploaded
+7730.636 (9) backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-db.gz: db: This file has already been successfully uploaded
+7730.636 (9) Saving backup history. Total backup size: Unknown
+7730.639 (9) Requesting upload of the files that have not yet been successfully uploaded (3)
+7730.641 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+7730.642 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+7733.965 (9) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+7733.966 (9) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+7794.557 (9) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7855.151 (9) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7855.152 (9) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7855.153 (9) An error condition has occurred for the first time during this job
+7855.819 (9) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+7855.820 (9) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+7916.443 (9) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7977.034 (9) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7977.035 (9) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+7977.659 (9) Google Drive: quota usage: used=711.8 MB, total=30720 MB, available=30008.2 MB
+7977.660 (9) Google Drive: backup_2022-07-04-1738_Tropicos_Escapades_f40a2d004bb5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+8038.305 (9) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+8098.922 (9) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+8098.924 (9) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+8098.926 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+8098.927 (9) Number of backup sets in history: 2; groups (db): 1
+8098.928 (9) Examining (for databases) backup set with group_id=0, nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+8098.929 (9) This backup set is the backup set just made, so will not be deleted.
+8098.929 (9) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+8098.929 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+8098.929 (9) Number of backup sets in history: 2; groups (files): 1
+8098.930 (9) Examining (for files) backup set with nonce=f40a2d004bb5, datestamp=1656941907 (Jul 04 2022 13:38:27)
+8098.930 (9) This backup set is the backup set just made, so will not be deleted.
+8098.931 (9) This backup set is the backup set just made, so will not be deleted.
+8098.931 (9) This backup set is the backup set just made, so will not be deleted.
+8098.931 (9) This backup set is the backup set just made, so will not be deleted.
+8098.932 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+8098.932 (9) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+8098.932 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+8098.933 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+8098.935 (9) Resume backup (f40a2d004bb5, 9): finish run
+8098.936 (9) [Info] Lock option (updraft_lock_f40a2d004bb5, es_options) released
+8098.937 (9) The resumption is being cancelled, as it was only scheduled to enable error reporting, which can be performed now
+8098.938 (9) No email will/can be sent - the user has not configured an email address.
+8098.939 (9) La tentative de sauvegarde est terminée, apparemment sans succès

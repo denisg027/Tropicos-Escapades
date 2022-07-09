@@ -1,0 +1,885 @@
+0000.002 (0) Opened log file at time: Fri, 01 Jul 2022 08:05:36 +0000 on http://evaluation-studi
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 54.8M | 50M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 246794.8 MB
+0000.008 (0) Deleting old temporary file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-others.zip.list.tmp
+0000.010 (0) Deleting old temporary file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-plugins.zip.list.tmp
+0000.011 (0) Deleting old temporary file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-themes.zip.list.tmp
+0000.011 (0) Deleting old temporary file: backup_2022-06-30-1608_Tropicos_Escapades_7cb438889640-uploads.zip.list.tmp
+0000.013 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.014 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.135 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1656590939, seconds_ago=71797)
+0000.137 (0) Set semaphore last lock (fd) time to 2022-07-01 08:05:36
+0000.138 (0) Semaphore lock (fd) complete
+0000.143 (0) Backup run: resumption=0, nonce=f8e9f3e19dc7, file_nonce=f8e9f3e19dc7 begun at=1656662736 (0s ago), job type=backup
+0000.144 (0) Scheduling a resumption (1) after 562 seconds (1656663298) in case this run gets aborted
+0000.173 (0) Checking if we have a zip executable available
+0000.175 (0) Creation of backups of directories: beginning
+0000.180 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0011.683 (0) Total entities for the zip file: 3001 directories, 16366 files (0 skipped as non-modified), 180.1 MB
+0011.697 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0011.912 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 100 files added (on-disk size: 599.3 KB)
+0012.899 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 200 files added (on-disk size: 599.3 KB)
+0013.745 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 300 files added (on-disk size: 599.3 KB)
+0014.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 336 (337) files added so far); re-opening (prior size: 599.3 KB)
+0014.827 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 400 files added (on-disk size: 1930.5 KB)
+0015.436 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 500 files added (on-disk size: 1930.5 KB)
+0016.718 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 600 files added (on-disk size: 1930.5 KB)
+0017.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 302 (639) files added so far); re-opening (prior size: 1930.5 KB)
+0017.728 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 700 files added (on-disk size: 2977.5 KB)
+0018.853 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 800 files added (on-disk size: 2977.5 KB)
+0020.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.8 MB, 219 (858) files added so far); re-opening (prior size: 2977.5 KB)
+0021.414 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 900 files added (on-disk size: 6304 KB)
+0022.178 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1000 files added (on-disk size: 6304 KB)
+0023.184 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.4 MB, 225 (1083) files added so far); re-opening (prior size: 6304 KB)
+0024.147 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1100 files added (on-disk size: 9860.7 KB)
+0025.224 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1200 files added (on-disk size: 9860.7 KB)
+0026.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 191 (1274) files added so far); re-opening (prior size: 9860.7 KB)
+0026.911 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1300 files added (on-disk size: 10163.1 KB)
+0028.713 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1400 files added (on-disk size: 10163.1 KB)
+0029.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 171 (1445) files added so far); re-opening (prior size: 10163.1 KB)
+0029.603 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1500 files added (on-disk size: 10519.1 KB)
+0030.582 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1600 files added (on-disk size: 10519.1 KB)
+0032.082 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1700 files added (on-disk size: 10519.1 KB)
+0032.184 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.1 MB, 273 (1718) files added so far); re-opening (prior size: 10519.1 KB)
+0033.862 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1800 files added (on-disk size: 13108.8 KB)
+0035.151 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 1900 files added (on-disk size: 13108.8 KB)
+0035.234 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 186 (1904) files added so far); re-opening (prior size: 13108.8 KB)
+0036.695 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2000 files added (on-disk size: 13345.2 KB)
+0038.131 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2100 files added (on-disk size: 13345.2 KB)
+0038.183 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 202 (2106) files added so far); re-opening (prior size: 13345.2 KB)
+0039.606 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2200 files added (on-disk size: 13722.5 KB)
+0040.687 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2300 files added (on-disk size: 13722.5 KB)
+0041.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 263 (2369) files added so far); re-opening (prior size: 13722.5 KB)
+0041.682 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2400 files added (on-disk size: 14673.3 KB)
+0042.547 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2500 files added (on-disk size: 14673.3 KB)
+0043.369 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2600 files added (on-disk size: 14673.3 KB)
+0044.123 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2700 files added (on-disk size: 14673.3 KB)
+0044.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 339 (2708) files added so far); re-opening (prior size: 14673.3 KB)
+0045.163 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2800 files added (on-disk size: 15068.1 KB)
+0046.206 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 2900 files added (on-disk size: 15068.1 KB)
+0047.189 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 281 (2989) files added so far); re-opening (prior size: 15068.1 KB)
+0047.591 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3000 files added (on-disk size: 15654.8 KB)
+0048.722 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3100 files added (on-disk size: 15654.8 KB)
+0049.846 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3200 files added (on-disk size: 15654.8 KB)
+0050.184 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 240 (3229) files added so far); re-opening (prior size: 15654.8 KB)
+0051.189 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3300 files added (on-disk size: 15930.4 KB)
+0052.102 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3400 files added (on-disk size: 15930.4 KB)
+0053.170 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3500 files added (on-disk size: 15930.4 KB)
+0053.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 272 (3501) files added so far); re-opening (prior size: 15930.4 KB)
+0054.620 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3600 files added (on-disk size: 16256.1 KB)
+0055.583 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3700 files added (on-disk size: 16256.1 KB)
+0056.188 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 263 (3764) files added so far); re-opening (prior size: 16256.1 KB)
+0056.734 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3800 files added (on-disk size: 16625.3 KB)
+0057.810 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 3900 files added (on-disk size: 16625.3 KB)
+0058.922 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4000 files added (on-disk size: 16625.3 KB)
+0059.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 260 (4024) files added so far); re-opening (prior size: 16625.3 KB)
+0060.293 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4100 files added (on-disk size: 16994.5 KB)
+0061.499 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4200 files added (on-disk size: 16994.5 KB)
+0062.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 230 (4254) files added so far); re-opening (prior size: 16994.5 KB)
+0063.363 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4300 files added (on-disk size: 17477.6 KB)
+0064.647 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4400 files added (on-disk size: 17477.6 KB)
+0065.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 194 (4448) files added so far); re-opening (prior size: 17477.6 KB)
+0065.816 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4500 files added (on-disk size: 17739.5 KB)
+0066.581 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4600 files added (on-disk size: 17739.5 KB)
+0067.310 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4700 files added (on-disk size: 17739.5 KB)
+0068.051 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4800 files added (on-disk size: 17739.5 KB)
+0068.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 371 (4819) files added so far); re-opening (prior size: 17739.5 KB)
+0069.053 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 4900 files added (on-disk size: 18135.8 KB)
+0070.022 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5000 files added (on-disk size: 18135.8 KB)
+0070.960 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5100 files added (on-disk size: 18135.8 KB)
+0071.193 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 302 (5121) files added so far); re-opening (prior size: 18135.8 KB)
+0072.288 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5200 files added (on-disk size: 18494.8 KB)
+0073.327 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5300 files added (on-disk size: 18494.8 KB)
+0074.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 257 (5378) files added so far); re-opening (prior size: 18494.8 KB)
+0074.604 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5400 files added (on-disk size: 18895.7 KB)
+0075.487 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5500 files added (on-disk size: 18895.7 KB)
+0076.372 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5600 files added (on-disk size: 18895.7 KB)
+0077.153 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5700 files added (on-disk size: 18895.7 KB)
+0077.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 326 (5704) files added so far); re-opening (prior size: 18895.7 KB)
+0078.405 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5800 files added (on-disk size: 19497.5 KB)
+0079.344 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 5900 files added (on-disk size: 19497.5 KB)
+0080.195 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 286 (5990) files added so far); re-opening (prior size: 19497.5 KB)
+0080.600 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6000 files added (on-disk size: 19968.1 KB)
+0081.501 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6100 files added (on-disk size: 19968.1 KB)
+0082.403 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6200 files added (on-disk size: 19968.1 KB)
+0083.147 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6300 files added (on-disk size: 19968.1 KB)
+0083.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 314 (6304) files added so far); re-opening (prior size: 19968.1 KB)
+0084.494 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6400 files added (on-disk size: 20362.5 KB)
+0085.666 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6500 files added (on-disk size: 20362.5 KB)
+0086.287 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 289 (6593) files added so far); re-opening (prior size: 20362.5 KB)
+0086.830 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6600 files added (on-disk size: 21230.8 KB)
+0088.284 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6700 files added (on-disk size: 21230.8 KB)
+0089.189 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 138 (6731) files added so far); re-opening (prior size: 21230.8 KB)
+0090.351 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6800 files added (on-disk size: 22080.6 KB)
+0091.093 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 6900 files added (on-disk size: 22080.6 KB)
+0091.141 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7000 files added (on-disk size: 22080.6 KB)
+0091.189 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7100 files added (on-disk size: 22080.6 KB)
+0091.920 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7200 files added (on-disk size: 22080.6 KB)
+0092.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 504 (7235) files added so far); re-opening (prior size: 22080.6 KB)
+0093.434 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7300 files added (on-disk size: 22934.2 KB)
+0094.073 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7400 files added (on-disk size: 22934.2 KB)
+0095.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 219 (7454) files added so far); re-opening (prior size: 22934.2 KB)
+0096.285 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7500 files added (on-disk size: 24064.5 KB)
+0097.356 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7600 files added (on-disk size: 24064.5 KB)
+0097.996 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7700 files added (on-disk size: 24064.5 KB)
+0098.183 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 301 (7755) files added so far); re-opening (prior size: 24064.5 KB)
+0099.052 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7800 files added (on-disk size: 25568.7 KB)
+0100.153 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 7900 files added (on-disk size: 25568.7 KB)
+0101.254 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 175 (7930) files added so far); re-opening (prior size: 25568.7 KB)
+0102.112 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8000 files added (on-disk size: 26570.9 KB)
+0104.057 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8100 files added (on-disk size: 26570.9 KB)
+0104.197 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12.9 MB, 186 (8116) files added so far); re-opening (prior size: 26570.9 KB)
+0106.450 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8200 files added (on-disk size: 29930.4 KB)
+0107.436 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8300 files added (on-disk size: 29930.4 KB)
+0108.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 243 (8359) files added so far); re-opening (prior size: 29930.4 KB)
+0109.077 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8400 files added (on-disk size: 30528.5 KB)
+0110.106 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8500 files added (on-disk size: 30528.5 KB)
+0111.088 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8600 files added (on-disk size: 30528.5 KB)
+0111.194 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 252 (8611) files added so far); re-opening (prior size: 30528.5 KB)
+0112.479 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8700 files added (on-disk size: 31023 KB)
+0113.413 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8800 files added (on-disk size: 31023 KB)
+0114.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 262 (8873) files added so far); re-opening (prior size: 31023 KB)
+0114.796 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 8900 files added (on-disk size: 31403.4 KB)
+0115.858 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9000 files added (on-disk size: 31403.4 KB)
+0116.584 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9100 files added (on-disk size: 31403.4 KB)
+0117.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 278 (9151) files added so far); re-opening (prior size: 31403.4 KB)
+0118.048 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9200 files added (on-disk size: 31953.7 KB)
+0118.887 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9300 files added (on-disk size: 31953.7 KB)
+0119.916 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9400 files added (on-disk size: 31953.7 KB)
+0120.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 285 (9436) files added so far); re-opening (prior size: 31953.7 KB)
+0121.099 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9500 files added (on-disk size: 33335.1 KB)
+0121.391 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9600 files added (on-disk size: 33335.1 KB)
+0122.209 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9700 files added (on-disk size: 33335.1 KB)
+0123.195 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.3 MB, 338 (9774) files added so far); re-opening (prior size: 33335.1 KB)
+0124.932 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9800 files added (on-disk size: 35333.4 KB)
+0126.195 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 58 (9832) files added so far); re-opening (prior size: 35333.4 KB)
+0128.724 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 9900 files added (on-disk size: 35511 KB)
+0129.240 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 83 (9915) files added so far); re-opening (prior size: 35511 KB)
+0131.421 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10000 files added (on-disk size: 35691.2 KB)
+0132.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 151 (10066) files added so far); re-opening (prior size: 35691.2 KB)
+0133.158 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10100 files added (on-disk size: 36168.2 KB)
+0134.290 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10200 files added (on-disk size: 36168.2 KB)
+0135.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 217 (10283) files added so far); re-opening (prior size: 36168.2 KB)
+0135.832 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10300 files added (on-disk size: 36749.6 KB)
+0136.781 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10400 files added (on-disk size: 36749.6 KB)
+0137.570 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10500 files added (on-disk size: 36749.6 KB)
+0138.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 279 (10562) files added so far); re-opening (prior size: 36749.6 KB)
+0139.123 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10600 files added (on-disk size: 37622.9 KB)
+0139.617 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10700 files added (on-disk size: 37622.9 KB)
+0140.129 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10800 files added (on-disk size: 37622.9 KB)
+0140.676 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 10900 files added (on-disk size: 37622.9 KB)
+0141.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 429 (10991) files added so far); re-opening (prior size: 37622.9 KB)
+0141.652 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11000 files added (on-disk size: 38021.2 KB)
+0142.282 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11100 files added (on-disk size: 38021.2 KB)
+0142.716 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11200 files added (on-disk size: 38021.2 KB)
+0143.115 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11300 files added (on-disk size: 38021.2 KB)
+0143.625 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11400 files added (on-disk size: 38021.2 KB)
+0144.184 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 509 (11500) files added so far); re-opening (prior size: 38021.2 KB)
+0144.556 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11500 files added (on-disk size: 38641.3 KB)
+0145.279 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11600 files added (on-disk size: 38641.3 KB)
+0145.851 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11700 files added (on-disk size: 38641.3 KB)
+0146.672 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11800 files added (on-disk size: 38641.3 KB)
+0147.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 347 (11847) files added so far); re-opening (prior size: 38641.3 KB)
+0148.238 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 11900 files added (on-disk size: 39393 KB)
+0148.885 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12000 files added (on-disk size: 39393 KB)
+0149.819 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12100 files added (on-disk size: 39393 KB)
+0150.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 292 (12139) files added so far); re-opening (prior size: 39393 KB)
+0151.315 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12200 files added (on-disk size: 40395.2 KB)
+0152.180 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12300 files added (on-disk size: 40395.2 KB)
+0153.151 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12400 files added (on-disk size: 40395.2 KB)
+0153.197 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 265 (12404) files added so far); re-opening (prior size: 40395.2 KB)
+0154.710 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12500 files added (on-disk size: 40762.1 KB)
+0155.629 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12600 files added (on-disk size: 40762.1 KB)
+0156.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 251 (12655) files added so far); re-opening (prior size: 40762.1 KB)
+0157.129 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12700 files added (on-disk size: 41167.4 KB)
+0159.156 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12800 files added (on-disk size: 41167.4 KB)
+0159.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 146 (12801) files added so far); re-opening (prior size: 41167.4 KB)
+0160.622 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 12900 files added (on-disk size: 41354.5 KB)
+0161.092 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13000 files added (on-disk size: 41354.5 KB)
+0161.983 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13100 files added (on-disk size: 41354.5 KB)
+0162.184 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 319 (13120) files added so far); re-opening (prior size: 41354.5 KB)
+0163.352 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13200 files added (on-disk size: 41697.8 KB)
+0164.699 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13300 files added (on-disk size: 41697.8 KB)
+0165.188 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.1 MB, 230 (13350) files added so far); re-opening (prior size: 41697.8 KB)
+0166.461 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13400 files added (on-disk size: 43765.3 KB)
+0167.183 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13500 files added (on-disk size: 43765.3 KB)
+0167.926 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13600 files added (on-disk size: 43765.3 KB)
+0168.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 272 (13622) files added so far); re-opening (prior size: 43765.3 KB)
+0169.277 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13700 files added (on-disk size: 44450.4 KB)
+0169.856 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13800 files added (on-disk size: 44450.4 KB)
+0171.188 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 264 (13886) files added so far); re-opening (prior size: 44450.4 KB)
+0171.870 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 13900 files added (on-disk size: 46220.5 KB)
+0173.637 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14000 files added (on-disk size: 46220.5 KB)
+0174.192 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 143 (14029) files added so far); re-opening (prior size: 46220.5 KB)
+0176.727 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14100 files added (on-disk size: 46737.1 KB)
+0177.207 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 114 (14143) files added so far); re-opening (prior size: 46737.1 KB)
+0178.287 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14200 files added (on-disk size: 47071.8 KB)
+0179.444 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14300 files added (on-disk size: 47071.8 KB)
+0180.127 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14400 files added (on-disk size: 47071.8 KB)
+0180.189 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.8 MB, 262 (14405) files added so far); re-opening (prior size: 47071.8 KB)
+0181.644 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14500 files added (on-disk size: 48371.8 KB)
+0183.027 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14600 files added (on-disk size: 48371.8 KB)
+0183.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 216 (14621) files added so far); re-opening (prior size: 48371.8 KB)
+0184.084 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14700 files added (on-disk size: 48685.8 KB)
+0185.796 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14800 files added (on-disk size: 48685.8 KB)
+0186.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.2 MB, 228 (14849) files added so far); re-opening (prior size: 48685.8 KB)
+0187.702 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 14900 files added (on-disk size: 50705.3 KB)
+0188.135 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15000 files added (on-disk size: 50705.3 KB)
+0189.044 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15100 files added (on-disk size: 50705.3 KB)
+0189.447 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15200 files added (on-disk size: 50705.3 KB)
+0189.568 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15300 files added (on-disk size: 50705.3 KB)
+0190.089 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15400 files added (on-disk size: 50705.3 KB)
+0190.193 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 589 (15438) files added so far); re-opening (prior size: 50705.3 KB)
+0191.358 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15500 files added (on-disk size: 51417.4 KB)
+0192.401 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15600 files added (on-disk size: 51417.4 KB)
+0193.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 261 (15699) files added so far); re-opening (prior size: 51417.4 KB)
+0193.771 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15700 files added (on-disk size: 51846.7 KB)
+0194.368 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15800 files added (on-disk size: 51846.7 KB)
+0196.377 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 MB, 185 (15884) files added so far); re-opening (prior size: 51846.7 KB)
+0197.245 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 15900 files added (on-disk size: 52725 KB)
+0198.095 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 16000 files added (on-disk size: 52725 KB)
+0199.075 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 16100 files added (on-disk size: 52725 KB)
+0199.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 226 (16110) files added so far); re-opening (prior size: 52725 KB)
+0200.484 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 16200 files added (on-disk size: 53067.4 KB)
+0201.330 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.tmp: 16300 files added (on-disk size: 53067.4 KB)
+0202.524 (0) Creating zip file manifest (backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip.list-temp.tmp)
+0202.613 (0) Successfully created zip file manifest (size: 1609516)
+0203.081 (0) Created plugins zip (0) - 53521.1 KB in 202.9 s (263.8 KB/s) (sha1: 703665f31a4e9015ffed3c2c0c1cf04aa3332bd9, sha256: 2874eec97ab949ef2848a556c92254a763937abd63e119e208769a5a494e8c43)
+0203.085 (0) Beginning creation of dump of themes (split every: 400 MB)
+0203.376 (0) Total entities for the zip file: 291 directories, 669 files (0 skipped as non-modified), 23.1 MB
+0203.762 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0204.384 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0205.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.4 MB, 280 (280) files added so far); re-opening (prior size: 0 KB)
+0205.829 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.tmp: 300 files added (on-disk size: 1758.9 KB)
+0207.083 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.tmp: 400 files added (on-disk size: 1758.9 KB)
+0208.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 207 (487) files added so far); re-opening (prior size: 1758.9 KB)
+0208.376 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.tmp: 500 files added (on-disk size: 2201.4 KB)
+0209.550 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.tmp: 600 files added (on-disk size: 2201.4 KB)
+0211.336 (0) Creating zip file manifest (backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip.list-temp.tmp)
+0211.341 (0) Successfully created zip file manifest (size: 57959)
+0211.399 (0) Created themes zip (0) - 6541.4 KB in 8.3 s (787.1 KB/s) (sha1: a4d7147ea5cd8e9a28ab0cd1d45d18be6b70ffb7, sha256: 3432649def8705df9f037f8ac6fa5724168bb198d76adb3b5c453b06a99c2f18)
+0211.404 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0211.405 (0) Looking for candidates to backup in: C:\wamp64\www\Evaluation-Studi/wp-content/uploads
+0211.406 (0) finding files: 2020: adding to list (1)
+0211.407 (0) finding files: 2022: adding to list (2)
+0211.408 (0) finding files: astra-sites: adding to list (3)
+0211.409 (0) finding files: elementor: adding to list (4)
+0211.410 (0) finding files: mailpoet: adding to list (5)
+0211.411 (0) finding files: smush-1b862831fafac5088db7.log: adding to list (6)
+0211.412 (0) finding files: wc-logs: adding to list (7)
+0211.412 (0) finding files: woocommerce_uploads: adding to list (8)
+0211.413 (0) finding files: wpcf7_uploads: adding to list (9)
+0211.414 (0) finding files: wpforms: adding to list (10)
+0211.415 (0) finding files: wpo: adding to list (11)
+0211.416 (0) finding files: wpo-plugins-tables-list.json: adding to list (12)
+0211.417 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0211.594 (0) Total entities for the zip file: 31 directories, 493 files (0 skipped as non-modified), 33 MB
+0211.640 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0211.681 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0211.725 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0211.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 493 files batched, 359 (359) added so far); re-opening (prior size: 0 KB)
+0212.045 (0) A useful amount of data was added after this amount of zip processing: 0.9 s (normalised: 0.9 s, rate: 29890.8 KB/s)
+0212.048 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.86177706718445, normalised_time=0.85644977213309, max_time=212.04398488998, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0212.070 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip.tmp: 400 files added (on-disk size: 25825.9 KB)
+0212.535 (0) Creating zip file manifest (backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip.list-temp.tmp)
+0212.539 (0) Successfully created zip file manifest (size: 32986)
+0212.845 (0) Created uploads zip (0) - 31557.1 KB in 1.4 s (22162 KB/s) (sha1: 09cd39e0cd6ad4e77a6fb1cb553bd29cb11a7c3a, sha256: 2e108aa5e62103a17987fd26262d440e68d27d8e0a451de0ec8a02ee8df7ffb1)
+0212.854 (0) Beginning backup of other directories found in the content directory (index: 0)
+0212.857 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0212.858 (0) Looking for candidates to backup in: C:\wamp64\www\Evaluation-Studi/wp-content
+0212.860 (0) finding files: advanced-cache.php: adding to list (1)
+0212.862 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0212.864 (0) finding files: cache: skipping: excluded by options
+0212.865 (0) finding files: index.php: adding to list (2)
+0212.866 (0) finding files: languages: adding to list (3)
+0212.867 (0) finding files: plugins: skipping: this is the plugins directory
+0212.868 (0) finding files: themes: skipping: this is the themes directory
+0212.870 (0) finding files: updraft: skipping: this is the updraft directory
+0212.871 (0) finding files: upgrade: skipping: excluded by options
+0212.872 (0) finding files: uploads: skipping: this is the uploads directory
+0212.874 (0) finding files: wpo-cache: adding to list (4)
+0213.038 (0) Total entities for the zip file: 5 directories, 582 files (0 skipped as non-modified), 9 MB
+0213.410 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0213.769 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0214.164 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0214.557 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0214.935 (0) Zip: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0215.183 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.1 MB, 565 (565) files added so far); re-opening (prior size: 0 KB)
+0216.050 (0) Creating zip file manifest (backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip.list-temp.tmp)
+0216.054 (0) Successfully created zip file manifest (size: 47898)
+0216.082 (0) Created others zip (0) - 2648.2 KB in 3.2 s (826.7 KB/s) (sha1: 6a35be5d5cf7a27d16ee83a2abbf76be51067dda, sha256: 3e060a85ced874703776b18a68837fb44fab5a0cc13998708a1b089a12902cde)
+0216.089 (0) Saving backup status to database (elements: 8)
+0216.091 (0) Beginning creation of database dump (WordPress DB)
+0216.092 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0216.147 (0) Table es_options: Total expected rows (via COUNT): 791
+0216.290 (0) Table es_options: Rows added in this batch (next record: 9802): 787 (uncompressed bytes in this segment=6159360) in 0.17 seconds
+0216.297 (0) Table es_options: finishing file(s) (2, 516.1 KB)
+0216.305 (0) Table es_users: Total expected rows (via COUNT): 2
+0216.306 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0216.309 (0) Table es_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1650) in 0.01 seconds
+0216.315 (0) Table es_users: finishing file(s) (2, 0.7 KB)
+0216.323 (0) Table es_usermeta: Total expected rows (via COUNT): 51
+0216.324 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0216.329 (0) Table es_usermeta: Rows added in this batch (next record: 73): 51 (uncompressed bytes in this segment=4300) in 0.01 seconds
+0216.335 (0) Table es_usermeta: finishing file(s) (2, 2 KB)
+0216.346 (0) Table es_actionscheduler_actions: Total expected rows (via COUNT): 81
+0216.346 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0216.356 (0) Table es_actionscheduler_actions: Rows added in this batch (next record: 93): 81 (uncompressed bytes in this segment=32923) in 0.02 seconds
+0216.363 (0) Table es_actionscheduler_actions: finishing file(s) (2, 3.5 KB)
+0216.371 (0) Table es_actionscheduler_claims: Total expected rows (via COUNT): 0
+0216.374 (0) Table es_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0216.379 (0) Table es_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0216.385 (0) Table es_actionscheduler_groups: Total expected rows (via COUNT): 6
+0216.386 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0216.389 (0) Table es_actionscheduler_groups: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=820) in 0.01 seconds
+0216.395 (0) Table es_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0216.402 (0) Table es_actionscheduler_logs: Total expected rows (via COUNT): 239
+0216.403 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0216.414 (0) Table es_actionscheduler_logs: Rows added in this batch (next record: 251): 239 (uncompressed bytes in this segment=21209) in 0.01 seconds
+0216.420 (0) Table es_actionscheduler_logs: finishing file(s) (2, 2.9 KB)
+0216.429 (0) Table es_commentmeta: Total expected rows (via COUNT): 0
+0216.431 (0) Table es_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.00 seconds
+0216.438 (0) Table es_commentmeta: finishing file(s) (2, 0.4 KB)
+0216.445 (0) Table es_comments: Total expected rows (via COUNT): 1
+0216.446 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0216.449 (0) Table es_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2273) in 0.01 seconds
+0216.456 (0) Table es_comments: finishing file(s) (2, 0.8 KB)
+0216.465 (0) Table es_e_notes: Total expected rows (via COUNT): 0
+0216.468 (0) Table es_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2049) in 0.01 seconds
+0216.474 (0) Table es_e_notes: finishing file(s) (2, 0.8 KB)
+0216.482 (0) Table es_e_notes_users_relations: Total expected rows (via COUNT): 0
+0216.483 (0) Table es_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=871) in 0.00 seconds
+0216.489 (0) Table es_e_notes_users_relations: finishing file(s) (2, 0.4 KB)
+0216.498 (0) Table es_links: Total expected rows (via COUNT): 0
+0216.499 (0) Table es_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.00 seconds
+0216.505 (0) Table es_links: finishing file(s) (2, 0.5 KB)
+0216.593 (0) Table es_postmeta: Total expected rows (approximate): 9043
+0217.322 (0) Table es_postmeta: Rows added in this batch (next record: 11840): 9043 (uncompressed bytes in this segment=27624976) in 0.81 seconds
+0217.329 (0) Table es_postmeta: finishing file(s) (2, 1730.3 KB)
+0217.375 (0) Table es_posts: Total expected rows (approximate): 1197
+0217.641 (0) Table es_posts: Rows added in this batch (next record: 1682): 1197 (uncompressed bytes in this segment=7624212) in 0.31 seconds
+0217.648 (0) Table es_posts: finishing file(s) (2, 219.1 KB)
+0217.655 (0) Table es_term_relationships: Total expected rows (approximate): 111
+0217.659 (0) Table es_term_relationships: Rows added in this batch (next record: 100000): 111 (uncompressed bytes in this segment=2326) in 0.01 seconds
+0217.665 (0) Table es_term_relationships: finishing file(s) (2, 0.7 KB)
+0217.673 (0) Table es_term_taxonomy: Total expected rows (via COUNT): 34
+0217.674 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0217.678 (0) Table es_term_taxonomy: Rows added in this batch (next record: 39): 34 (uncompressed bytes in this segment=2565) in 0.01 seconds
+0217.685 (0) Table es_term_taxonomy: finishing file(s) (2, 0.9 KB)
+0217.693 (0) Table es_termmeta: Total expected rows (via COUNT): 5
+0217.694 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0217.696 (0) Table es_termmeta: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=924) in 0.01 seconds
+0217.703 (0) Table es_termmeta: finishing file(s) (2, 0.5 KB)
+0217.710 (0) Table es_terms: Total expected rows (via COUNT): 34
+0217.711 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0217.714 (0) Table es_terms: Rows added in this batch (next record: 39): 34 (uncompressed bytes in this segment=2053) in 0.01 seconds
+0217.720 (0) Table es_terms: finishing file(s) (2, 0.8 KB)
+0217.728 (0) Table es_wc_category_lookup: Total expected rows (approximate): 1
+0217.730 (0) Table es_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=581) in 0.00 seconds
+0217.737 (0) Table es_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0217.744 (0) Table es_wc_product_meta_lookup: Total expected rows (via COUNT): 0
+0217.746 (0) Table es_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1349) in 0.00 seconds
+0217.752 (0) Table es_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0217.759 (0) Table es_wc_reserved_stock: Total expected rows (approximate): 0
+0217.760 (0) Table es_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 0.00 seconds
+0217.766 (0) Table es_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0217.773 (0) Table es_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0217.774 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0217.776 (0) Table es_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=808) in 0.01 seconds
+0217.783 (0) Table es_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0217.791 (0) Table es_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0217.793 (0) Table es_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=763) in 0.01 seconds
+0217.801 (0) Table es_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0217.809 (0) Table es_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0217.810 (0) Table es_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.00 seconds
+0217.817 (0) Table es_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0217.825 (0) Table es_e_events: Total expected rows (via COUNT): 0
+0217.827 (0) Table es_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.00 seconds
+0217.833 (0) Table es_e_events: finishing file(s) (2, 0.3 KB)
+0217.841 (0) Table es_e_submissions: Total expected rows (via COUNT): 0
+0217.843 (0) Table es_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2254) in 0.00 seconds
+0217.850 (0) Table es_e_submissions: finishing file(s) (2, 0.7 KB)
+0217.868 (0) Table es_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0217.869 (0) Table es_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1243) in 0.00 seconds
+0217.875 (0) Table es_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0217.884 (0) Table es_e_submissions_values: Total expected rows (via COUNT): 0
+0217.885 (0) Table es_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.00 seconds
+0217.893 (0) Table es_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0217.903 (0) Table es_gla_budget_recommendations: Total expected rows (approximate): 4230
+0218.115 (0) Table es_gla_budget_recommendations: Rows added in this batch (next record: 4230): 4230 (uncompressed bytes in this segment=131445) in 0.21 seconds
+0218.125 (0) Table es_gla_budget_recommendations: finishing file(s) (2, 33 KB)
+0218.151 (0) Table es_gla_merchant_issues: Total expected rows (via COUNT): 0
+0218.153 (0) Table es_gla_merchant_issues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1161) in 0.00 seconds
+0218.160 (0) Table es_gla_merchant_issues: finishing file(s) (2, 0.4 KB)
+0218.167 (0) Table es_gla_shipping_rates: Total expected rows (via COUNT): 0
+0218.169 (0) Table es_gla_shipping_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=836) in 0.00 seconds
+0218.176 (0) Table es_gla_shipping_rates: finishing file(s) (2, 0.4 KB)
+0218.182 (0) Table es_gla_shipping_times: Total expected rows (via COUNT): 0
+0218.183 (0) Table es_gla_shipping_times: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=580) in 0.00 seconds
+0218.190 (0) Table es_gla_shipping_times: finishing file(s) (2, 0.3 KB)
+0218.198 (0) Table es_mailpoet_custom_fields: Total expected rows (via COUNT): 0
+0218.199 (0) Table es_mailpoet_custom_fields: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=827) in 0.00 seconds
+0218.206 (0) Table es_mailpoet_custom_fields: finishing file(s) (2, 0.4 KB)
+0218.213 (0) Table es_mailpoet_dynamic_segment_filters: Total expected rows (via COUNT): 0
+0218.214 (0) Table es_mailpoet_dynamic_segment_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=914) in 0.00 seconds
+0218.220 (0) Table es_mailpoet_dynamic_segment_filters: finishing file(s) (2, 0.4 KB)
+0218.227 (0) Table es_mailpoet_feature_flags: Total expected rows (via COUNT): 0
+0218.229 (0) Table es_mailpoet_feature_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=740) in 0.00 seconds
+0218.235 (0) Table es_mailpoet_feature_flags: finishing file(s) (2, 0.4 KB)
+0218.243 (0) Table es_mailpoet_forms: Total expected rows (via COUNT): 0
+0218.244 (0) Table es_mailpoet_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=908) in 0.00 seconds
+0218.251 (0) Table es_mailpoet_forms: finishing file(s) (2, 0.4 KB)
+0218.260 (0) Table es_mailpoet_log: Total expected rows (via COUNT): 0
+0218.261 (0) Table es_mailpoet_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=627) in 0.00 seconds
+0218.268 (0) Table es_mailpoet_log: finishing file(s) (2, 0.4 KB)
+0218.275 (0) Table es_mailpoet_mapping_to_external_entities: Total expected rows (approximate): 0
+0218.276 (0) Table es_mailpoet_mapping_to_external_entities: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=753) in 0.00 seconds
+0218.282 (0) Table es_mailpoet_mapping_to_external_entities: finishing file(s) (2, 0.4 KB)
+0218.289 (0) Table es_mailpoet_newsletter_links: Total expected rows (via COUNT): 0
+0218.291 (0) Table es_mailpoet_newsletter_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=930) in 0.00 seconds
+0218.297 (0) Table es_mailpoet_newsletter_links: finishing file(s) (2, 0.4 KB)
+0218.305 (0) Table es_mailpoet_newsletter_option: Total expected rows (via COUNT): 0
+0218.306 (0) Table es_mailpoet_newsletter_option: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=853) in 0.00 seconds
+0218.312 (0) Table es_mailpoet_newsletter_option: finishing file(s) (2, 0.4 KB)
+0218.319 (0) Table es_mailpoet_newsletter_option_fields: Total expected rows (via COUNT): 22
+0218.320 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.323 (0) Table es_mailpoet_newsletter_option_fields: Rows added in this batch (next record: 22): 22 (uncompressed bytes in this segment=2386) in 0.01 seconds
+0218.329 (0) Table es_mailpoet_newsletter_option_fields: finishing file(s) (2, 0.7 KB)
+0218.335 (0) Table es_mailpoet_newsletter_posts: Total expected rows (via COUNT): 0
+0218.338 (0) Table es_mailpoet_newsletter_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=747) in 0.00 seconds
+0218.344 (0) Table es_mailpoet_newsletter_posts: finishing file(s) (2, 0.4 KB)
+0218.352 (0) Table es_mailpoet_newsletter_segment: Total expected rows (via COUNT): 0
+0218.353 (0) Table es_mailpoet_newsletter_segment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=787) in 0.00 seconds
+0218.360 (0) Table es_mailpoet_newsletter_segment: finishing file(s) (2, 0.4 KB)
+0218.373 (0) Table es_mailpoet_newsletter_templates: Total expected rows (via COUNT): 78
+0218.374 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.397 (0) Table es_mailpoet_newsletter_templates: Rows added in this batch (next record: 78): 78 (uncompressed bytes in this segment=1126601) in 0.03 seconds
+0218.404 (0) Table es_mailpoet_newsletter_templates: finishing file(s) (2, 68.8 KB)
+0218.413 (0) Table es_mailpoet_newsletters: Total expected rows (via COUNT): 0
+0218.415 (0) Table es_mailpoet_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1746) in 0.01 seconds
+0218.422 (0) Table es_mailpoet_newsletters: finishing file(s) (2, 0.6 KB)
+0218.430 (0) Table es_mailpoet_scheduled_task_subscribers: Total expected rows (approximate): 0
+0218.431 (0) Table es_mailpoet_scheduled_task_subscribers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=900) in 0.00 seconds
+0218.438 (0) Table es_mailpoet_scheduled_task_subscribers: finishing file(s) (2, 0.4 KB)
+0218.447 (0) Table es_mailpoet_scheduled_tasks: Total expected rows (via COUNT): 75
+0218.448 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.456 (0) Table es_mailpoet_scheduled_tasks: Rows added in this batch (next record: 75): 75 (uncompressed bytes in this segment=13864) in 0.01 seconds
+0218.464 (0) Table es_mailpoet_scheduled_tasks: finishing file(s) (2, 1.9 KB)
+0218.471 (0) Table es_mailpoet_segments: Total expected rows (via COUNT): 3
+0218.473 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.476 (0) Table es_mailpoet_segments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1736) in 0.01 seconds
+0218.482 (0) Table es_mailpoet_segments: finishing file(s) (2, 0.7 KB)
+0218.491 (0) Table es_mailpoet_sending_queues: Total expected rows (via COUNT): 0
+0218.493 (0) Table es_mailpoet_sending_queues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1237) in 0.01 seconds
+0218.501 (0) Table es_mailpoet_sending_queues: finishing file(s) (2, 0.5 KB)
+0218.510 (0) Table es_mailpoet_settings: Total expected rows (via COUNT): 16
+0218.511 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.514 (0) Table es_mailpoet_settings: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=3912) in 0.01 seconds
+0218.521 (0) Table es_mailpoet_settings: finishing file(s) (2, 1.3 KB)
+0218.528 (0) Table es_mailpoet_statistics_bounces: Total expected rows (via COUNT): 0
+0218.530 (0) Table es_mailpoet_statistics_bounces: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.00 seconds
+0218.536 (0) Table es_mailpoet_statistics_bounces: finishing file(s) (2, 0.4 KB)
+0218.544 (0) Table es_mailpoet_statistics_clicks: Total expected rows (via COUNT): 0
+0218.545 (0) Table es_mailpoet_statistics_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1097) in 0.00 seconds
+0218.551 (0) Table es_mailpoet_statistics_clicks: finishing file(s) (2, 0.5 KB)
+0218.559 (0) Table es_mailpoet_statistics_forms: Total expected rows (via COUNT): 0
+0218.560 (0) Table es_mailpoet_statistics_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.00 seconds
+0218.567 (0) Table es_mailpoet_statistics_forms: finishing file(s) (2, 0.4 KB)
+0218.575 (0) Table es_mailpoet_statistics_newsletters: Total expected rows (via COUNT): 0
+0218.577 (0) Table es_mailpoet_statistics_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=815) in 0.00 seconds
+0218.583 (0) Table es_mailpoet_statistics_newsletters: finishing file(s) (2, 0.4 KB)
+0218.592 (0) Table es_mailpoet_statistics_opens: Total expected rows (via COUNT): 0
+0218.593 (0) Table es_mailpoet_statistics_opens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1051) in 0.00 seconds
+0218.600 (0) Table es_mailpoet_statistics_opens: finishing file(s) (2, 0.5 KB)
+0218.607 (0) Table es_mailpoet_statistics_unsubscribes: Total expected rows (via COUNT): 0
+0218.608 (0) Table es_mailpoet_statistics_unsubscribes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1010) in 0.00 seconds
+0218.615 (0) Table es_mailpoet_statistics_unsubscribes: finishing file(s) (2, 0.5 KB)
+0218.623 (0) Table es_mailpoet_statistics_woocommerce_purchases: Total expected rows (via COUNT): 0
+0218.624 (0) Table es_mailpoet_statistics_woocommerce_purchases: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1248) in 0.00 seconds
+0218.631 (0) Table es_mailpoet_statistics_woocommerce_purchases: finishing file(s) (2, 0.5 KB)
+0218.638 (0) Table es_mailpoet_stats_notifications: Total expected rows (via COUNT): 0
+0218.640 (0) Table es_mailpoet_stats_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=819) in 0.00 seconds
+0218.646 (0) Table es_mailpoet_stats_notifications: finishing file(s) (2, 0.4 KB)
+0218.654 (0) Table es_mailpoet_subscriber_custom_field: Total expected rows (via COUNT): 0
+0218.655 (0) Table es_mailpoet_subscriber_custom_field: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=894) in 0.00 seconds
+0218.663 (0) Table es_mailpoet_subscriber_custom_field: finishing file(s) (2, 0.4 KB)
+0218.669 (0) Table es_mailpoet_subscriber_ips: Total expected rows (approximate): 0
+0218.672 (0) Table es_mailpoet_subscriber_ips: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=593) in 0.00 seconds
+0218.679 (0) Table es_mailpoet_subscriber_ips: finishing file(s) (2, 0.4 KB)
+0218.685 (0) Table es_mailpoet_subscriber_segment: Total expected rows (via COUNT): 2
+0218.686 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.690 (0) Table es_mailpoet_subscriber_segment: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1120) in 0.01 seconds
+0218.697 (0) Table es_mailpoet_subscriber_segment: finishing file(s) (2, 0.5 KB)
+0218.708 (0) Table es_mailpoet_subscribers: Total expected rows (via COUNT): 2
+0218.709 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.711 (0) Table es_mailpoet_subscribers: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2998) in 0.01 seconds
+0218.718 (0) Table es_mailpoet_subscribers: finishing file(s) (2, 1 KB)
+0218.726 (0) Table es_mailpoet_user_agents: Total expected rows (via COUNT): 0
+0218.730 (0) Table es_mailpoet_user_agents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=753) in 0.01 seconds
+0218.736 (0) Table es_mailpoet_user_agents: finishing file(s) (2, 0.4 KB)
+0218.744 (0) Table es_mailpoet_user_flags: Total expected rows (via COUNT): 0
+0218.745 (0) Table es_mailpoet_user_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=801) in 0.00 seconds
+0218.750 (0) Table es_mailpoet_user_flags: finishing file(s) (2, 0.4 KB)
+0218.760 (0) Table es_tm_taskmeta: Total expected rows (via COUNT): 0
+0218.762 (0) Table es_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.01 seconds
+0218.769 (0) Table es_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0218.775 (0) Table es_tm_tasks: Total expected rows (via COUNT): 0
+0218.777 (0) Table es_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.00 seconds
+0218.783 (0) Table es_tm_tasks: finishing file(s) (2, 0.4 KB)
+0218.792 (0) Table es_wc_admin_note_actions: Total expected rows (via COUNT): 55
+0218.793 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.799 (0) Table es_wc_admin_note_actions: Rows added in this batch (next record: 1336): 55 (uncompressed bytes in this segment=10145) in 0.01 seconds
+0218.806 (0) Table es_wc_admin_note_actions: finishing file(s) (2, 2.5 KB)
+0218.816 (0) Table es_wc_admin_notes: Total expected rows (via COUNT): 49
+0218.817 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.826 (0) Table es_wc_admin_notes: Rows added in this batch (next record: 51): 49 (uncompressed bytes in this segment=24634) in 0.01 seconds
+0218.834 (0) Table es_wc_admin_notes: finishing file(s) (2, 6.8 KB)
+0218.843 (0) Table es_wc_customer_lookup: Total expected rows (via COUNT): 0
+0218.845 (0) Table es_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1258) in 0.00 seconds
+0218.852 (0) Table es_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0218.858 (0) Table es_wc_download_log: Total expected rows (via COUNT): 0
+0218.860 (0) Table es_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.00 seconds
+0218.866 (0) Table es_wc_download_log: finishing file(s) (2, 0.4 KB)
+0218.873 (0) Table es_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0218.875 (0) Table es_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=709) in 0.00 seconds
+0218.881 (0) Table es_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0218.889 (0) Table es_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0218.890 (0) Table es_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1203) in 0.00 seconds
+0218.896 (0) Table es_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0218.904 (0) Table es_wc_order_stats: Total expected rows (via COUNT): 0
+0218.905 (0) Table es_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1106) in 0.00 seconds
+0218.912 (0) Table es_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0218.919 (0) Table es_wc_order_tax_lookup: Total expected rows (approximate): 0
+0218.921 (0) Table es_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=791) in 0.00 seconds
+0218.928 (0) Table es_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0218.935 (0) Table es_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0218.936 (0) Table es_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=850) in 0.00 seconds
+0218.943 (0) Table es_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0218.954 (0) Table es_wc_product_download_directories: Total expected rows (via COUNT): 2
+0218.955 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0218.958 (0) Table es_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=916) in 0.01 seconds
+0218.964 (0) Table es_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0218.971 (0) Table es_wc_rate_limits: Total expected rows (via COUNT): 0
+0218.974 (0) Table es_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.00 seconds
+0218.980 (0) Table es_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0218.988 (0) Table es_wc_webhooks: Total expected rows (via COUNT): 0
+0218.990 (0) Table es_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.00 seconds
+0218.996 (0) Table es_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0219.005 (0) Table es_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0219.006 (0) Table es_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1038) in 0.00 seconds
+0219.013 (0) Table es_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0219.020 (0) Table es_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0219.021 (0) Table es_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=954) in 0.00 seconds
+0219.028 (0) Table es_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0219.035 (0) Table es_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0219.036 (0) Table es_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1518) in 0.00 seconds
+0219.043 (0) Table es_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0219.053 (0) Table es_woocommerce_log: Total expected rows (via COUNT): 0
+0219.054 (0) Table es_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=715) in 0.01 seconds
+0219.061 (0) Table es_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0219.070 (0) Table es_woocommerce_order_items: Total expected rows (via COUNT): 0
+0219.071 (0) Table es_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.00 seconds
+0219.078 (0) Table es_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0219.084 (0) Table es_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0219.086 (0) Table es_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=833) in 0.00 seconds
+0219.092 (0) Table es_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0219.101 (0) Table es_woocommerce_sessions: Total expected rows (via COUNT): 1
+0219.102 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0219.104 (0) Table es_woocommerce_sessions: Rows added in this batch (next record: 7): 1 (uncompressed bytes in this segment=2176) in 0.01 seconds
+0219.112 (0) Table es_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0219.119 (0) Table es_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0219.121 (0) Table es_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.00 seconds
+0219.128 (0) Table es_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0219.135 (0) Table es_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0219.137 (0) Table es_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=763) in 0.00 seconds
+0219.147 (0) Table es_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0219.153 (0) Table es_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0219.156 (0) Table es_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0219.163 (0) Table es_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0219.169 (0) Table es_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0219.171 (0) Table es_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=840) in 0.00 seconds
+0219.177 (0) Table es_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0219.184 (0) Table es_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0219.186 (0) Table es_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1283) in 0.00 seconds
+0219.193 (0) Table es_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0219.205 (0) Table es_wpforms_tasks_meta: Total expected rows (via COUNT): 16
+0219.206 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0219.209 (0) Table es_wpforms_tasks_meta: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=1878) in 0.01 seconds
+0219.215 (0) Table es_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0219.226 (0) Table es_yoast_indexable: Total expected rows (via COUNT): 86
+0219.227 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0219.256 (0) Table es_yoast_indexable: Rows added in this batch (next record: 86): 86 (uncompressed bytes in this segment=77071) in 0.04 seconds
+0219.264 (0) Table es_yoast_indexable: finishing file(s) (2, 10.1 KB)
+0219.270 (0) Table es_yoast_indexable_hierarchy: Total expected rows (approximate): 82
+0219.273 (0) Table es_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 82 (uncompressed bytes in this segment=2091) in 0.00 seconds
+0219.280 (0) Table es_yoast_indexable_hierarchy: finishing file(s) (2, 0.6 KB)
+0219.291 (0) Table es_yoast_migrations: Total expected rows (via COUNT): 23
+0219.292 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0219.295 (0) Table es_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1236) in 0.01 seconds
+0219.301 (0) Table es_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0219.308 (0) Table es_yoast_primary_term: Total expected rows (via COUNT): 0
+0219.310 (0) Table es_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=842) in 0.00 seconds
+0219.315 (0) Table es_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0219.323 (0) Table es_yoast_seo_links: Total expected rows (via COUNT): 111
+0219.324 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0219.333 (0) Table es_yoast_seo_links: Rows added in this batch (next record: 145): 111 (uncompressed bytes in this segment=15897) in 0.01 seconds
+0219.340 (0) Table es_yoast_seo_links: finishing file(s) (2, 2.4 KB)
+0219.343 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_options.table.tmpr9803.gz (1/96/fopen): adding to final database dump
+0219.360 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_options.table.gz (2/96/fopen): adding to final database dump
+0219.361 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_users.table.tmpr3.gz (3/96/fopen): adding to final database dump
+0219.362 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_users.table.gz (4/96/fopen): adding to final database dump
+0219.363 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_usermeta.table.tmpr74.gz (5/96/fopen): adding to final database dump
+0219.365 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_usermeta.table.gz (6/96/fopen): adding to final database dump
+0219.366 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_actions.table.tmpr94.gz (7/96/fopen): adding to final database dump
+0219.367 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_actions.table.gz (8/96/fopen): adding to final database dump
+0219.368 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_claims.table.tmpr0.gz (9/96/fopen): adding to final database dump
+0219.369 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_claims.table.gz (10/96/fopen): adding to final database dump
+0219.370 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_groups.table.tmpr7.gz (11/96/fopen): adding to final database dump
+0219.371 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_groups.table.gz (12/96/fopen): adding to final database dump
+0219.373 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_logs.table.tmpr252.gz (13/96/fopen): adding to final database dump
+0219.374 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_actionscheduler_logs.table.gz (14/96/fopen): adding to final database dump
+0219.375 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_commentmeta.table.tmpr0.gz (15/96/fopen): adding to final database dump
+0219.376 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_commentmeta.table.gz (16/96/fopen): adding to final database dump
+0219.377 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_comments.table.tmpr2.gz (17/96/fopen): adding to final database dump
+0219.377 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_comments.table.gz (18/96/fopen): adding to final database dump
+0219.378 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_notes.table.tmpr0.gz (19/96/fopen): adding to final database dump
+0219.379 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_notes.table.gz (20/96/fopen): adding to final database dump
+0219.380 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_notes_users_relations.table.tmpr0.gz (21/96/fopen): adding to final database dump
+0219.381 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_notes_users_relations.table.gz (22/96/fopen): adding to final database dump
+0219.382 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_links.table.tmpr0.gz (23/96/fopen): adding to final database dump
+0219.384 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_links.table.gz (24/96/fopen): adding to final database dump
+0219.384 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_postmeta.table.tmpr11841.gz (25/96/fopen): adding to final database dump
+0219.451 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_postmeta.table.gz (26/96/fopen): adding to final database dump
+0219.452 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_posts.table.tmpr1683.gz (27/96/fopen): adding to final database dump
+0219.460 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_posts.table.gz (28/96/fopen): adding to final database dump
+0219.462 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_term_relationships.table.tmpr100001.gz (29/96/fopen): adding to final database dump
+0219.463 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_term_relationships.table.gz (30/96/fopen): adding to final database dump
+0219.464 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_term_taxonomy.table.tmpr40.gz (31/96/fopen): adding to final database dump
+0219.465 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_term_taxonomy.table.gz (32/96/fopen): adding to final database dump
+0219.466 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_termmeta.table.tmpr8.gz (33/96/fopen): adding to final database dump
+0219.467 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_termmeta.table.gz (34/96/fopen): adding to final database dump
+0219.468 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_terms.table.tmpr40.gz (35/96/fopen): adding to final database dump
+0219.469 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_terms.table.gz (36/96/fopen): adding to final database dump
+0219.470 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_category_lookup.table.tmpr1001.gz (37/96/fopen): adding to final database dump
+0219.471 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_category_lookup.table.gz (38/96/fopen): adding to final database dump
+0219.472 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_product_meta_lookup.table.tmpr0.gz (39/96/fopen): adding to final database dump
+0219.473 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_product_meta_lookup.table.gz (40/96/fopen): adding to final database dump
+0219.475 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_reserved_stock.table.tmpr1.gz (41/96/fopen): adding to final database dump
+0219.476 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_reserved_stock.table.gz (42/96/fopen): adding to final database dump
+0219.477 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_tax_rate_classes.table.tmpr3.gz (43/96/fopen): adding to final database dump
+0219.478 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_tax_rate_classes.table.gz (44/96/fopen): adding to final database dump
+0219.479 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_order_itemmeta.table.tmpr0.gz (45/96/fopen): adding to final database dump
+0219.480 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_order_itemmeta.table.gz (46/96/fopen): adding to final database dump
+0219.481 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_payment_tokenmeta.table.tmpr0.gz (47/96/fopen): adding to final database dump
+0219.482 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_payment_tokenmeta.table.gz (48/96/fopen): adding to final database dump
+0219.483 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_events.table.tmpr0.gz (49/96/fopen): adding to final database dump
+0219.484 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_events.table.gz (50/96/fopen): adding to final database dump
+0219.485 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_submissions.table.tmpr0.gz (51/96/fopen): adding to final database dump
+0219.486 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_submissions.table.gz (52/96/fopen): adding to final database dump
+0219.487 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_submissions_actions_log.table.tmpr0.gz (53/96/fopen): adding to final database dump
+0219.488 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_submissions_actions_log.table.gz (54/96/fopen): adding to final database dump
+0219.489 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_submissions_values.table.tmpr0.gz (55/96/fopen): adding to final database dump
+0219.491 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_e_submissions_values.table.gz (56/96/fopen): adding to final database dump
+0219.492 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_budget_recommendations.table.tmpr4231.gz (57/96/fopen): adding to final database dump
+0219.495 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_budget_recommendations.table.gz (58/96/fopen): adding to final database dump
+0219.496 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_merchant_issues.table.tmpr0.gz (59/96/fopen): adding to final database dump
+0219.497 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_merchant_issues.table.gz (60/96/fopen): adding to final database dump
+0219.498 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_shipping_rates.table.tmpr0.gz (61/96/fopen): adding to final database dump
+0219.499 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_shipping_rates.table.gz (62/96/fopen): adding to final database dump
+0219.500 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_shipping_times.table.tmpr0.gz (63/96/fopen): adding to final database dump
+0219.501 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_gla_shipping_times.table.gz (64/96/fopen): adding to final database dump
+0219.502 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_custom_fields.table.tmpr0.gz (65/96/fopen): adding to final database dump
+0219.503 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_custom_fields.table.gz (66/96/fopen): adding to final database dump
+0219.504 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_dynamic_segment_filters.table.tmpr0.gz (67/96/fopen): adding to final database dump
+0219.505 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_dynamic_segment_filters.table.gz (68/96/fopen): adding to final database dump
+0219.506 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_feature_flags.table.tmpr0.gz (69/96/fopen): adding to final database dump
+0219.508 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_feature_flags.table.gz (70/96/fopen): adding to final database dump
+0219.509 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_forms.table.tmpr0.gz (71/96/fopen): adding to final database dump
+0219.510 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_forms.table.gz (72/96/fopen): adding to final database dump
+0219.511 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_log.table.tmpr0.gz (73/96/fopen): adding to final database dump
+0219.512 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_log.table.gz (74/96/fopen): adding to final database dump
+0219.513 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_mapping_to_external_entities.table.tmpr1.gz (75/96/fopen): adding to final database dump
+0219.514 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_mapping_to_external_entities.table.gz (76/96/fopen): adding to final database dump
+0219.515 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_links.table.tmpr0.gz (77/96/fopen): adding to final database dump
+0219.516 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_links.table.gz (78/96/fopen): adding to final database dump
+0219.517 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_option.table.tmpr0.gz (79/96/fopen): adding to final database dump
+0219.518 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_option.table.gz (80/96/fopen): adding to final database dump
+0219.519 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_option_fields.table.tmpr23.gz (81/96/fopen): adding to final database dump
+0219.520 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_option_fields.table.gz (82/96/fopen): adding to final database dump
+0219.522 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_posts.table.tmpr0.gz (83/96/fopen): adding to final database dump
+0219.523 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_posts.table.gz (84/96/fopen): adding to final database dump
+0219.524 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_segment.table.tmpr0.gz (85/96/fopen): adding to final database dump
+0219.525 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_segment.table.gz (86/96/fopen): adding to final database dump
+0219.526 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_templates.table.tmpr79.gz (87/96/fopen): adding to final database dump
+0219.529 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletter_templates.table.gz (88/96/fopen): adding to final database dump
+0219.530 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletters.table.tmpr0.gz (89/96/fopen): adding to final database dump
+0219.531 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_newsletters.table.gz (90/96/fopen): adding to final database dump
+0219.532 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_scheduled_task_subscribers.table.tmpr1.gz (91/96/fopen): adding to final database dump
+0219.533 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_scheduled_task_subscribers.table.gz (92/96/fopen): adding to final database dump
+0219.534 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_scheduled_tasks.table.tmpr76.gz (93/96/fopen): adding to final database dump
+0219.536 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_scheduled_tasks.table.gz (94/96/fopen): adding to final database dump
+0219.537 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_segments.table.tmpr4.gz (95/96/fopen): adding to final database dump
+0219.538 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_segments.table.gz (96/96/fopen): adding to final database dump
+0219.539 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_sending_queues.table.tmpr0.gz (97/96/fopen): adding to final database dump
+0219.540 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_sending_queues.table.gz (98/96/fopen): adding to final database dump
+0219.541 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_settings.table.tmpr17.gz (99/96/fopen): adding to final database dump
+0219.543 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_settings.table.gz (100/96/fopen): adding to final database dump
+0219.544 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_bounces.table.tmpr0.gz (101/96/fopen): adding to final database dump
+0219.545 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_bounces.table.gz (102/96/fopen): adding to final database dump
+0219.546 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_clicks.table.tmpr0.gz (103/96/fopen): adding to final database dump
+0219.547 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_clicks.table.gz (104/96/fopen): adding to final database dump
+0219.548 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_forms.table.tmpr0.gz (105/96/fopen): adding to final database dump
+0219.549 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_forms.table.gz (106/96/fopen): adding to final database dump
+0219.550 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_newsletters.table.tmpr0.gz (107/96/fopen): adding to final database dump
+0219.551 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_newsletters.table.gz (108/96/fopen): adding to final database dump
+0219.553 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_opens.table.tmpr0.gz (109/96/fopen): adding to final database dump
+0219.554 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_opens.table.gz (110/96/fopen): adding to final database dump
+0219.555 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_unsubscribes.table.tmpr0.gz (111/96/fopen): adding to final database dump
+0219.556 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_unsubscribes.table.gz (112/96/fopen): adding to final database dump
+0219.557 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_woocommerce_purchases.table.tmpr0.gz (113/96/fopen): adding to final database dump
+0219.558 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_statistics_woocommerce_purchases.table.gz (114/96/fopen): adding to final database dump
+0219.559 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_stats_notifications.table.tmpr0.gz (115/96/fopen): adding to final database dump
+0219.560 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_stats_notifications.table.gz (116/96/fopen): adding to final database dump
+0219.561 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscriber_custom_field.table.tmpr0.gz (117/96/fopen): adding to final database dump
+0219.562 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscriber_custom_field.table.gz (118/96/fopen): adding to final database dump
+0219.563 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscriber_ips.table.tmpr1.gz (119/96/fopen): adding to final database dump
+0219.566 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscriber_ips.table.gz (120/96/fopen): adding to final database dump
+0219.567 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscriber_segment.table.tmpr3.gz (121/96/fopen): adding to final database dump
+0219.568 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscriber_segment.table.gz (122/96/fopen): adding to final database dump
+0219.569 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscribers.table.tmpr3.gz (123/96/fopen): adding to final database dump
+0219.570 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_subscribers.table.gz (124/96/fopen): adding to final database dump
+0219.571 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_user_agents.table.tmpr0.gz (125/96/fopen): adding to final database dump
+0219.573 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_user_agents.table.gz (126/96/fopen): adding to final database dump
+0219.574 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_user_flags.table.tmpr0.gz (127/96/fopen): adding to final database dump
+0219.575 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_mailpoet_user_flags.table.gz (128/96/fopen): adding to final database dump
+0219.576 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_tm_taskmeta.table.tmpr0.gz (129/96/fopen): adding to final database dump
+0219.577 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_tm_taskmeta.table.gz (130/96/fopen): adding to final database dump
+0219.578 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_tm_tasks.table.tmpr0.gz (131/96/fopen): adding to final database dump
+0219.579 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_tm_tasks.table.gz (132/96/fopen): adding to final database dump
+0219.580 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_admin_note_actions.table.tmpr1337.gz (133/96/fopen): adding to final database dump
+0219.581 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_admin_note_actions.table.gz (134/96/fopen): adding to final database dump
+0219.582 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_admin_notes.table.tmpr52.gz (135/96/fopen): adding to final database dump
+0219.584 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_admin_notes.table.gz (136/96/fopen): adding to final database dump
+0219.585 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_customer_lookup.table.tmpr0.gz (137/96/fopen): adding to final database dump
+0219.586 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_customer_lookup.table.gz (138/96/fopen): adding to final database dump
+0219.587 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_download_log.table.tmpr0.gz (139/96/fopen): adding to final database dump
+0219.588 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_download_log.table.gz (140/96/fopen): adding to final database dump
+0219.589 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_coupon_lookup.table.tmpr1.gz (141/96/fopen): adding to final database dump
+0219.591 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_coupon_lookup.table.gz (142/96/fopen): adding to final database dump
+0219.592 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_product_lookup.table.tmpr0.gz (143/96/fopen): adding to final database dump
+0219.593 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_product_lookup.table.gz (144/96/fopen): adding to final database dump
+0219.594 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_stats.table.tmpr0.gz (145/96/fopen): adding to final database dump
+0219.595 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_stats.table.gz (146/96/fopen): adding to final database dump
+0219.595 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_tax_lookup.table.tmpr1.gz (147/96/fopen): adding to final database dump
+0219.596 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_order_tax_lookup.table.gz (148/96/fopen): adding to final database dump
+0219.598 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_product_attributes_lookup.table.tmpr1.gz (149/96/fopen): adding to final database dump
+0219.599 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_product_attributes_lookup.table.gz (150/96/fopen): adding to final database dump
+0219.600 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_product_download_directories.table.tmpr3.gz (151/96/fopen): adding to final database dump
+0219.601 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_product_download_directories.table.gz (152/96/fopen): adding to final database dump
+0219.602 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_rate_limits.table.tmpr0.gz (153/96/fopen): adding to final database dump
+0219.603 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_rate_limits.table.gz (154/96/fopen): adding to final database dump
+0219.604 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_webhooks.table.tmpr0.gz (155/96/fopen): adding to final database dump
+0219.605 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wc_webhooks.table.gz (156/96/fopen): adding to final database dump
+0219.606 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_api_keys.table.tmpr0.gz (157/96/fopen): adding to final database dump
+0219.608 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_api_keys.table.gz (158/96/fopen): adding to final database dump
+0219.609 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_attribute_taxonomies.table.tmpr0.gz (159/96/fopen): adding to final database dump
+0219.610 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_attribute_taxonomies.table.gz (160/96/fopen): adding to final database dump
+0219.611 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_downloadable_product_permissions.table.tmpr0.gz (161/96/fopen): adding to final database dump
+0219.612 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_downloadable_product_permissions.table.gz (162/96/fopen): adding to final database dump
+0219.613 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_log.table.tmpr0.gz (163/96/fopen): adding to final database dump
+0219.614 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_log.table.gz (164/96/fopen): adding to final database dump
+0219.617 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_order_items.table.tmpr0.gz (165/96/fopen): adding to final database dump
+0219.618 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_order_items.table.gz (166/96/fopen): adding to final database dump
+0219.619 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_payment_tokens.table.tmpr0.gz (167/96/fopen): adding to final database dump
+0219.620 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_payment_tokens.table.gz (168/96/fopen): adding to final database dump
+0219.621 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_sessions.table.tmpr8.gz (169/96/fopen): adding to final database dump
+0219.622 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_sessions.table.gz (170/96/fopen): adding to final database dump
+0219.623 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_shipping_zone_locations.table.tmpr0.gz (171/96/fopen): adding to final database dump
+0219.624 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_shipping_zone_locations.table.gz (172/96/fopen): adding to final database dump
+0219.625 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_shipping_zone_methods.table.tmpr0.gz (173/96/fopen): adding to final database dump
+0219.626 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_shipping_zone_methods.table.gz (174/96/fopen): adding to final database dump
+0219.627 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_shipping_zones.table.tmpr0.gz (175/96/fopen): adding to final database dump
+0219.629 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_shipping_zones.table.gz (176/96/fopen): adding to final database dump
+0219.630 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_tax_rate_locations.table.tmpr0.gz (177/96/fopen): adding to final database dump
+0219.631 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_tax_rate_locations.table.gz (178/96/fopen): adding to final database dump
+0219.632 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_tax_rates.table.tmpr0.gz (179/96/fopen): adding to final database dump
+0219.633 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_woocommerce_tax_rates.table.gz (180/96/fopen): adding to final database dump
+0219.634 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wpforms_tasks_meta.table.tmpr17.gz (181/96/fopen): adding to final database dump
+0219.635 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_wpforms_tasks_meta.table.gz (182/96/fopen): adding to final database dump
+0219.636 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_indexable.table.tmpr87.gz (183/96/fopen): adding to final database dump
+0219.639 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_indexable.table.gz (184/96/fopen): adding to final database dump
+0219.640 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_indexable_hierarchy.table.tmpr1001.gz (185/96/fopen): adding to final database dump
+0219.641 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_indexable_hierarchy.table.gz (186/96/fopen): adding to final database dump
+0219.642 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_migrations.table.tmpr24.gz (187/96/fopen): adding to final database dump
+0219.643 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_migrations.table.gz (188/96/fopen): adding to final database dump
+0219.644 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_primary_term.table.tmpr0.gz (189/96/fopen): adding to final database dump
+0219.645 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_primary_term.table.gz (190/96/fopen): adding to final database dump
+0219.646 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_seo_links.table.tmpr146.gz (191/96/fopen): adding to final database dump
+0219.647 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db-table-es_yoast_seo_links.table.gz (192/96/fopen): adding to final database dump
+0219.654 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db.gz: finished writing out complete database file (2638.4 KB)
+0219.707 (0) Total database tables backed up: 96 (backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db.gz, size: 2701783, sha1: cf4589d0e740f98e882258f80f3ca07a1f79333a, sha256: 93699c2fddd08af94a3ad5487402b4602a48692a61756dc042350bac42bf0276)
+0219.713 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0219.714 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0219.716 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0219.716 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip: others: This file has not yet been successfully uploaded: will queue
+0219.717 (0) backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db.gz: db: This file has not yet been successfully uploaded: will queue
+0219.719 (0) Saving backup history. Total backup size: 94.6 MB
+0219.721 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0219.725 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0219.726 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a49ffd068faf25a9b5fb2672f0c0f3be)
+0222.154 (0) Google Drive: quota usage: used=706.8 MB, total=30720 MB, available=30013.2 MB
+0222.155 (0) Google Drive: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-plugins.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0282.533 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0342.937 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0342.938 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0342.939 (0) An error condition has occurred for the first time during this job
+0343.462 (0) Google Drive: quota usage: used=706.8 MB, total=30720 MB, available=30013.2 MB
+0343.463 (0) Google Drive: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-themes.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0403.850 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0464.278 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0464.279 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0464.783 (0) Google Drive: quota usage: used=706.8 MB, total=30720 MB, available=30013.2 MB
+0464.784 (0) Google Drive: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-uploads.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0525.201 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0585.571 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0585.572 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0585.918 (0) Google Drive: quota usage: used=706.8 MB, total=30720 MB, available=30013.2 MB
+0585.919 (0) Google Drive: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-others.zip: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0646.360 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0706.806 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0706.807 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0707.368 (0) Google Drive: quota usage: used=706.8 MB, total=30720 MB, available=30013.2 MB
+0707.369 (0) Google Drive: backup_2022-07-01-1205_Tropicos_Escapades_f8e9f3e19dc7-db.gz: Attempting to upload to Google Drive (into folder id: 1o-u8N_FVi3c5ksw3QATY8a8nrsRmhYR4)
+0767.752 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0828.148 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0828.150 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\Evaluation-Studi\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0828.153 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0828.154 (0) Number of backup sets in history: 2; groups (db): 1
+0828.155 (0) Examining (for databases) backup set with group_id=0, nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+0828.156 (0) This backup set is the backup set just made, so will not be deleted.
+0828.156 (0) Examining (for databases) backup set with group_id=0, nonce=7cb438889640, datestamp=1656590939 (Jun 30 2022 12:08:59)
+0828.156 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0828.157 (0) Number of backup sets in history: 2; groups (files): 1
+0828.160 (0) Examining (for files) backup set with nonce=f8e9f3e19dc7, datestamp=1656662736 (Jul 01 2022 08:05:36)
+0828.160 (0) This backup set is the backup set just made, so will not be deleted.
+0828.161 (0) This backup set is the backup set just made, so will not be deleted.
+0828.161 (0) This backup set is the backup set just made, so will not be deleted.
+0828.161 (0) This backup set is the backup set just made, so will not be deleted.
+0828.161 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0828.162 (0) Examining (for files) backup set with nonce=7cb438889640, datestamp=1656590939 (Jun 30 2022 12:08:59)
+0828.162 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0828.163 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0828.165 (0) Resume backup (f8e9f3e19dc7, 0): finish run
+0828.167 (0) Decremented the semaphore (fd) by 1
+0828.169 (0) Semaphore (fd) unlocked
+0828.169 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0828.172 (0) Rescheduling resumption 1: moving to 60 seconds from now (1656663624)
+0828.175 (0) No email will/can be sent - the user has not configured an email address.
+0828.176 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+279003.348 (1) Opened log file at time: Mon, 04 Jul 2022 13:35:40 +0000 on http://evaluation-studi
+279003.350 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.21 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 49.5M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+279003.351 (1) Free space on disk containing Updraft's temporary directory: 266077.9 MB
+279003.352 (1) Requesting backup semaphore lock (f8e9f3e19dc7)
+279003.353 (1) [Debug] Lock option (updraft_lock_f8e9f3e19dc7, es_options) was created in the database
+279003.354 (1) [Info] Lock (updraft_lock_f8e9f3e19dc7, es_options) acquired after initialising the database
+279003.354 (1) This backup task (f8e9f3e19dc7) is either complete or began over 2 days ago: ending (1656941740.1586, 1656662736) (existing jobdata keys: resume_interval, job_type, jobstatus, backup_time, job_time_ms, service, split_every, maxzipbatch, job_file_entities, option_cache, uploaded_lastreset, one_shot, followsups_allowed, last_sapi, backup_database, backup_files, remote_storage_instances, runs_started, current_resumption, binzip, filecreating_substatus, files_enumerated_at, run_times, useful_checkins, sha1-plugins0, sha256-plugins0, sha1-themes0, sha256-themes0, sha1-uploads0, sha256-uploads0, sha1-others0, sha256-others0, backup_files_array, binsqldump, dbcreating_substatus, fetch_rows, sha1-db0, sha256-db0, uploading_substatus, prune)
