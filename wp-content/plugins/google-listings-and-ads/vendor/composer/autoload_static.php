@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitca0e9769fbac099b4edab1000f1d3895
+class ComposerStaticInit0c2e83a3ecd0680e8a1e54ad28f6de36
 {
     public static $files = array (
         '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
@@ -296,6 +296,7 @@ class ComposerStaticInitca0e9769fbac099b4edab1000f1d3895
         'Automattic\\WooCommerce\\GoogleListingsAndAds\\API\\Google\\MerchantMetrics' => __DIR__ . '/../..' . '/src/API/Google/MerchantMetrics.php',
         'Automattic\\WooCommerce\\GoogleListingsAndAds\\API\\Google\\MerchantReport' => __DIR__ . '/../..' . '/src/API/Google/MerchantReport.php',
         'Automattic\\WooCommerce\\GoogleListingsAndAds\\API\\Google\\Middleware' => __DIR__ . '/../..' . '/src/API/Google/Middleware.php',
+        'Automattic\\WooCommerce\\GoogleListingsAndAds\\API\\Google\\Query\\AdsAccountAccessQuery' => __DIR__ . '/../..' . '/src/API/Google/Query/AdsAccountAccessQuery.php',
         'Automattic\\WooCommerce\\GoogleListingsAndAds\\API\\Google\\Query\\AdsAccountQuery' => __DIR__ . '/../..' . '/src/API/Google/Query/AdsAccountQuery.php',
         'Automattic\\WooCommerce\\GoogleListingsAndAds\\API\\Google\\Query\\AdsAssetGroupQuery' => __DIR__ . '/../..' . '/src/API/Google/Query/AdsAssetGroupQuery.php',
         'Automattic\\WooCommerce\\GoogleListingsAndAds\\API\\Google\\Query\\AdsBillingStatusQuery' => __DIR__ . '/../..' . '/src/API/Google/Query/AdsBillingStatusQuery.php',
@@ -4104,9 +4105,9 @@ class ComposerStaticInitca0e9769fbac099b4edab1000f1d3895
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitca0e9769fbac099b4edab1000f1d3895::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitca0e9769fbac099b4edab1000f1d3895::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitca0e9769fbac099b4edab1000f1d3895::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit0c2e83a3ecd0680e8a1e54ad28f6de36::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit0c2e83a3ecd0680e8a1e54ad28f6de36::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit0c2e83a3ecd0680e8a1e54ad28f6de36::$classMap;
 
         }, null, ClassLoader::class);
     }

@@ -1,1 +1,93 @@
 [2022-06-30 12:18:07 : INFO] - Could not find file for image: ID=652, file=C:\wamp64\www\Evaluation-Studi/wp-content/uploads/2022/06/florence-tuscany-italy-1139892.jpg 
+[2022-07-11 13:32:21 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:37:27 : INFO] - 
+ 
+[2022-07-11 13:37:27 : INFO] - Header for logs at time:  Mon, 11 Jul 2022 13:37:27 +0000 on http://evaluation-studi 
+[2022-07-11 13:37:27 : INFO] - WP: 6.0 
+[2022-07-11 13:37:27 : INFO] - PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) 
+[2022-07-11 13:37:27 : INFO] - MySQL: 8.0.21 
+[2022-07-11 13:37:27 : INFO] - WPLANG: fr_FR 
+[2022-07-11 13:37:27 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.4.9 
+[2022-07-11 13:37:27 : INFO] - Outbound connections: N 
+[2022-07-11 13:37:27 : INFO] - safe_mode: 0 
+[2022-07-11 13:37:27 : INFO] - max_execution_time: 120 
+[2022-07-11 13:37:27 : INFO] - memory_limit: 256M (used: 138.6M | 2M) 
+[2022-07-11 13:37:27 : INFO] - multisite: N 
+[2022-07-11 13:37:27 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-07-11 13:37:27 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-07-11 13:37:27 : DEBUG] - Lock option (updraft_lock_smush, es_options) was created in the database 
+[2022-07-11 13:37:27 : INFO] - Lock (updraft_lock_smush, es_options) acquired after initialising the database 
+[2022-07-11 13:37:27 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-07-11 13:37:27 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:37:28 : INFO] - 75 
+[2022-07-11 13:37:31 : INFO] - Backing up the original image - 2022/07/beach-sea-panorama-1824855-updraft-pre-smush-original.jpg 
+[2022-07-11 13:37:31 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:37:31 : INFO] - 75 
+[2022-07-11 13:37:38 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:37:38 : INFO] - 75 
+[2022-07-11 13:38:08 : INFO] - Task with ID 1 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30010 milliseconds with 0 bytes received 
+[2022-07-11 13:38:08 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-07-11 13:38:08 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:38:08 : INFO] - 75 
+[2022-07-11 13:38:17 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-11 13:38:17 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/231a4cc734510c43a5db07634a7d61ae\/_src_beach-sea-panorama-1824855-150x150.jpg","dest":"http:\/\/par3.static.resmush.it\/231a4cc734510c43a5db07634a7d61ae\/beach-sea-panorama-1824855-150x150.jpg","src_size":5640,"dest_size":4709,"percent":17,"output":"json","expires":"Mon, 11 Jul 2022 15:43:12 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-11 13:38:17 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:38:18 : INFO] - 75 
+[2022-07-11 13:38:19 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:38:20 : INFO] - 75 
+[2022-07-11 13:38:26 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:38:27 : INFO] - 75 
+[2022-07-11 13:38:33 : INFO] - Re_Smush_It_Task with attachment ID : 1686, autocreated on : July 11, 2022 01:32:21 
+[2022-07-11 13:38:33 : INFO] - 75 
+[2022-07-11 13:38:37 : INFO] - Successfully optimized the image - C:\wamp64\www\Evaluation-Studi/wp-content/uploads/2022/07/beach-sea-panorama-1824855.jpg. 
+[2022-07-11 13:38:37 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2022-07-11 13:38:37 : INFO] - Lock option (updraft_lock_smush, es_options) released 
+[2022-07-11 13:38:37 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-07-11 13:38:37 : INFO] - Lock option (updraft_lock_smush, es_options) was deleted from the database 
+[2022-07-11 13:38:37 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-07-11 13:42:53 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:03 : INFO] - 
+ 
+[2022-07-11 13:48:03 : INFO] - Header for logs at time:  Mon, 11 Jul 2022 13:48:03 +0000 on http://evaluation-studi 
+[2022-07-11 13:48:03 : INFO] - WP: 6.0 
+[2022-07-11 13:48:03 : INFO] - PHP: 7.4.9 (apache2handler, Windows NT RETZ-O-LUTION-I 10.0 build 22000 (Windows 10) AMD64) 
+[2022-07-11 13:48:03 : INFO] - MySQL: 8.0.21 
+[2022-07-11 13:48:03 : INFO] - WPLANG: fr_FR 
+[2022-07-11 13:48:03 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.4.9 
+[2022-07-11 13:48:03 : INFO] - Outbound connections: N 
+[2022-07-11 13:48:03 : INFO] - safe_mode: 0 
+[2022-07-11 13:48:03 : INFO] - max_execution_time: 120 
+[2022-07-11 13:48:03 : INFO] - memory_limit: 256M (used: 40.2M | 2M) 
+[2022-07-11 13:48:03 : INFO] - multisite: N 
+[2022-07-11 13:48:03 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-07-11 13:48:03 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-07-11 13:48:03 : DEBUG] - Lock option (updraft_lock_smush, es_options) was created in the database 
+[2022-07-11 13:48:03 : INFO] - Lock (updraft_lock_smush, es_options) acquired after initialising the database 
+[2022-07-11 13:48:03 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2022-07-11 13:48:03 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:03 : INFO] - 75 
+[2022-07-11 13:48:07 : INFO] - Backing up the original image - 2022/07/seychelles-beach-sea-4245171-updraft-pre-smush-original.jpg 
+[2022-07-11 13:48:07 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:07 : INFO] - 75 
+[2022-07-11 13:48:15 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:16 : INFO] - 75 
+[2022-07-11 13:48:22 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:22 : INFO] - 75 
+[2022-07-11 13:48:36 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-11 13:48:36 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/1bc3dc47b5345ba93c0e82af1d1fc0fb\/_src_seychelles-beach-sea-4245171-150x150.jpg","dest":"http:\/\/par3.static.resmush.it\/1bc3dc47b5345ba93c0e82af1d1fc0fb\/seychelles-beach-sea-4245171-150x150.jpg","src_size":4178,"dest_size":3483,"percent":17,"output":"json","expires":"Mon, 11 Jul 2022 15:53:35 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-11 13:48:36 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:36 : INFO] - 75 
+[2022-07-11 13:48:44 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:44 : INFO] - 75 
+[2022-07-11 13:48:47 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-11 13:48:47 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/29304e6530c1104700f5776d90f0adf5\/_src_seychelles-beach-sea-4245171-300x300.jpg","dest":"http:\/\/par3.static.resmush.it\/29304e6530c1104700f5776d90f0adf5\/seychelles-beach-sea-4245171-300x300.jpg","src_size":11556,"dest_size":9933,"percent":14,"output":"json","expires":"Mon, 11 Jul 2022 15:53:46 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-11 13:48:47 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:48:47 : INFO] - 75 
+[2022-07-11 13:49:03 : INFO] - Re_Smush_It_Task with attachment ID : 1690, autocreated on : July 11, 2022 01:42:53 
+[2022-07-11 13:49:03 : INFO] - 75 
+[2022-07-11 13:49:06 : INFO] - Successfully optimized the image - C:\wamp64\www\Evaluation-Studi/wp-content/uploads/2022/07/seychelles-beach-sea-4245171.jpg. 
+[2022-07-11 13:49:06 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2022-07-11 13:49:06 : INFO] - Lock option (updraft_lock_smush, es_options) released 
+[2022-07-11 13:49:06 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-07-11 13:49:06 : INFO] - Lock option (updraft_lock_smush, es_options) was deleted from the database 
+[2022-07-11 13:49:06 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
